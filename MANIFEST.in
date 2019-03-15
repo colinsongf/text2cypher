@@ -1,0 +1,3 @@
+include README.md
+include text2cypher/neo4j_entity/*.pickle
+include text2cypher/tagged_question.csv

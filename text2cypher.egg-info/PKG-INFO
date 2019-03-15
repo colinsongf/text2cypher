@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: text2cypher
+Version: 1.0
+Summary: convert natural language query to graph db query ( cypher) using Universal Senetence Encoder 
+Home-page: https://github.com/domyounglee/text2query
+Author: domyoung
+Author-email: domyoung89@airi.kr
+License: UNKNOWN
+Download-URL: https://github.com/domyounglee/text2query/dist/text2cypher-1.0-py3-none-any.whl
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3

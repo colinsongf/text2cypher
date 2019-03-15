@@ -1,0 +1,3778 @@
+what is the name of <PERSON> brother?
+what character did <PERSON> play in star wars?
+what state does <PERSON>?
+what country is the <LOCATION> in?
+what kind of money to take to <LOCATION>?
+what character did <PERSON> play in lord of the rings?
+who does <PERSON> play for?
+where are the <ORGANIZATION> from?
+where did <PERSON> live?
+how old is <PERSON>?
+what <NUMBER> countries invaded <LOCATION> in the beginning of <NUMBER>?
+what time zone am i in <LOCATION>?
+who did <PERSON> end up marrying?
+which countries border the <LOCATION>?
+where is <LOCATION> located on a map?
+what is <PERSON> nationality?
+what country does <LOCATION> belong to?
+which <PERSON> died <ORDINAL>?
+what books did <PERSON> right?
+who did the <LOCATION> gain independence from?
+where to fly into <LOCATION>?
+who is the prime minister of <LOCATION>?
+what to see near <LOCATION>?
+what high school did president <PERSON> attend?
+what form of government does <LOCATION> have <DATE>?
+what movies does <PERSON> play in?
+what <DURATION> <PERSON> came to the nba?
+what did the <MISC> revolution lead to?
+how much did <PERSON> gain during pregnancy?
+what does <MISC> mean?
+which wife did king <PERSON>?
+who was <PERSON>'s mom?
+what was <PERSON> x trying to accomplish?
+where are the netherlands on a world map?
+what is the president of <LOCATION>?
+what are the major cities in <LOCATION>?
+what city did <PERSON> live in?
+what sport do the <ORGANIZATION> play?
+what is saint <PERSON> known for?
+when is the new series of the only way is essex starting?
+what is <PERSON>'s son's name?
+what is <PERSON> doing <DATE>?
+what party was <PERSON>?
+what is <MISC> a?
+what county is the city of <LOCATION> in?
+what is the name of the <ORDINAL> <PERSON> novel?
+what did <PERSON> do for a living?
+what county is <LOCATION> airport in?
+where did <PERSON> study science?
+what movie is <PERSON> in?
+what is there to do in <LOCATION> tx?
+what season did <PERSON> get shot?
+where do the <ORGANIZATION> play home games?
+what <DURATION> did <PERSON> run for president?
+what was the name of <PERSON> book?
+who was queen <PERSON>'s parents called?
+what movies did <PERSON> win an oscar for?
+what is the <ORDINAL> book <PERSON> appeared in?
+what type of car does <PERSON> drive?
+where does <PERSON> begin and end?
+what countries do people speak <MISC>?
+where to exchange euros in <LOCATION>?
+what are the names of <ORGANIZATION> kids?
+who is in the band <PERSON>?
+what was <MISC> name in juice?
+what timezone is <LOCATION> gmt?
+who does <PERSON> play in taken?
+what style of music did <PERSON> play?
+when is <DATE> in <LOCATION>?
+what tv show did <PERSON> play on?
+what timezone is <LOCATION> co?
+what character did <PERSON> play on <NUMBER>?
+where does <PERSON> live?
+what form of government was practiced in <LOCATION>?
+when did the <ORGANIZATION> go to the world series?
+who was <PERSON>'s <ORDINAL> girlfriend?
+what college did <PERSON> attend?
+where to go in <LOCATION>?
+what school did <PERSON> attend?
+where did <LOCATION> colonise?
+who was <PERSON> inspired by?
+where to get married in <LOCATION> nc?
+what time zone am i in <LOCATION>?
+when did the <ORGANIZATION> win a championship?
+what is the official language of <LOCATION> <DATE>?
+what was <PERSON>'s major accomplishments?
+where is <PERSON> factory?
+what language do the speak in <LOCATION>?
+where is <ORGANIZATION>?
+which part of <LOCATION> is communist?
+where did <PERSON> go to prison?
+what sea does the <LOCATION> flow into?
+who <PERSON> engaged to?
+what is <PERSON> famous for?
+who founded the <LOCATION> settlement?
+what kind of money should i take to <LOCATION>?
+who is <PERSON> jr wife?
+where do the <ORGANIZATION> play?
+where is <PERSON> buried?
+who does the author <PERSON> play in the movie <TIME>?
+when <PERSON> compete?
+what <DURATION> have the <ORGANIZATION> won the superbowl?
+what awards has <PERSON> won?
+who are the <DATE> senators from <LOCATION>?
+who was the president after <PERSON> died?
+what is the best currency to take to <LOCATION> <DATE>?
+what are the countries in the <LOCATION>?
+what planes does the <ORGANIZATION> have?
+where did <PERSON> died?
+where to visit in <LOCATION>?
+what to do in <LOCATION> with family?
+what is the local language of <LOCATION>?
+what city and state was the <ORGANIZATION> established?
+what's the national sport of <LOCATION>?
+what religion are people in <LOCATION>?
+what did <PERSON> play in?
+what countries did queen <PERSON> reign over?
+where did dr <PERSON> go to school?
+what team does <PERSON> play for?
+what are dollars called in <LOCATION>?
+who plays <PERSON> in family guy?
+what high school did <PERSON> go to?
+what is the world's tallest building in <LOCATION> called?
+where does <ORGANIZATION> fly to?
+what movie did <MISC> jolie direct?
+where did <PERSON> got shot?
+where to visit near <LOCATION>?
+who does <PERSON> have a baby by?
+what <DURATION> did <PERSON> became king?
+who is the <DATE> president of the <LOCATION> in <DATE>?
+who has been married to <PERSON>?
+where do <ORGANIZATION> play?
+where does the <ORGANIZATION> get its f<ORGANIZATION>ding?
+who does <PERSON> play for?
+who all has dated <PERSON>?
+what is the dominant language in <LOCATION>?
+what are the main languages of <LOCATION>?
+what jobs did <PERSON> do?
+what bible does the <MISC> church follow?
+who plays <PERSON> in the looney tunes show?
+what stadium did the <ORGANIZATION> play in?
+who did <PERSON> married?
+where did <PERSON> go to college?
+what did <PERSON> study at university?
+who is the president of the <ORGANIZATION> <DATE>?
+what school did <PERSON> go to?
+what movie did <PERSON> write?
+what did <PERSON> get surgery for?
+what did st. <PERSON> do?
+when does <PERSON> come out on dvd deathly hallows <NUMBER>?
+what was <PERSON>'s religion?
+who will win the <DATE> <ORGANIZATION> stanley cup?
+what is <PERSON> known for?
+who did <ORGANIZATION> rose marry?
+what <DURATION> did <PERSON> go to the super bowl?
+what is the money of <LOCATION> called?
+where are <ORGANIZATION> microwaves made?
+who was elected president of the <LOCATION>?
+what cities does <ORGANIZATION> fly to?
+what time zone is <LOCATION> state?
+who was the apostle <PERSON> considered to be?
+what currency does <LOCATION> use?
+what instrument does <PERSON>?
+what team did <PERSON> play for <ORDINAL>?
+where was <PERSON> when he got shot?
+who do <PERSON> play for?
+where did the <PERSON> case take place?
+where did pres <PERSON> go to college?
+what was the name of the original <LOCATION> baseball team?
+who was general <PERSON> american revolution?
+what type of monarchy did <LOCATION> have?
+when were the <ORGANIZATION> started?
+where did the <ORGANIZATION> football team go?
+what do they call football in <MISC>?
+where did <PERSON> go to college?
+where does <PERSON> live?
+where was <PERSON> born?
+who is the governor of <LOCATION> <DATE>?
+who is the senator of the <LOCATION> <DATE>?
+where did the massive allied invasion of northern <LOCATION> take place in <DATE>?
+which countries are part of the <LOCATION>?
+what is the postcode for <LOCATION>?
+who killed <PERSON> dvd?
+what other books did <PERSON> wrote?
+what is the currency name of <LOCATION>?
+what language does <LOCATION>?
+what is the <ORDINAL> <PERSON> book called?
+what did <PERSON> conducted his experiments on?
+who did <PERSON> cheat with?
+where is <ORGANIZATION> headquarters?
+where is <PERSON> <DATE>?
+what are <LOCATION> countries?
+what influenced <PERSON> work?
+what time zones are there in the <LOCATION>?
+what are the <NUMBER> biggest cities in the <LOCATION>?
+what language do <MISC> people speak?
+who did <PERSON> play in megamind?
+what countries did queen <LOCATION> rule?
+who are <PERSON>'s parents?
+where did <PERSON> go to school?
+what college did <PERSON>?
+who does <PERSON> play for <DATE>?
+what was the purpose of the <DATE> gulf of <LOCATION> resolution?
+what movies did <PERSON> play in?
+what is the zip code for <LOCATION>?
+what country is the <LOCATION> located in?
+who won golden boot?
+where did <PERSON> die?
+where is the <LOCATION> located?
+when did kings last win <MISC>?
+what school did <PERSON> attend?
+what money do they use in <LOCATION>?
+what college did <PERSON>?
+what are the <NUMBER> conferences in the <ORGANIZATION>?
+when did <PERSON> start on in living color?
+when is <LOCATION> marathon?
+what character does <PERSON> play in finding nemo?
+when was the last time the <ORGANIZATION> were in the super bowl?
+what are all the names of <PERSON>?
+what does <PERSON> play in?
+what sort of government does <LOCATION> have?
+which airport is best to fly into <LOCATION>?
+where did <PERSON> go to school?
+what county is <PERSON> from?
+what happened to <ORGANIZATION>?
+what country is located in the <LOCATION>?
+what <NUMBER> states border <LOCATION>?
+what are the main languages spoken in <LOCATION>?
+what songs did <PERSON> write?
+what language do they speak in <MISC>?
+who is the new senator of <LOCATION>?
+which airport to fly in <LOCATION>?
+where are the ruins of <LOCATION>?
+what language people speak in <LOCATION>?
+what language do people speak in <LOCATION> wikipedia?
+what cities should i visit in <LOCATION>?
+where was princess <PERSON> raised?
+what is the name of the <ORGANIZATION> head coach?
+when does <LOCATION>'s wonderland close?
+when did the <ORGANIZATION> win the championship?
+what <DURATION> was the great <LOCATION> fire?
+what countries share borders with <LOCATION>?
+what did <PERSON> sing?
+what style of art is <PERSON>?
+what city was <PERSON> from?
+what did <PERSON> of?
+what are the <NUMBER> major rivers in <LOCATION>?
+what other discoveries did <PERSON> discover?
+who started <ORGANIZATION>?
+who is tia and <PERSON> parents?
+what political party was <PERSON>?
+what would have happened if <LOCATION> had won ww1?
+what kind of government is <LOCATION>?
+where is the nation of <LOCATION> located?
+what <NUMBER> countries does <LOCATION> border?
+what <DURATION> was the <LOCATION> blackout?
+which countries have <MISC> as native language?
+what position does <PERSON> play?
+what are major exports of the <LOCATION>?
+what shows did <PERSON> star in?
+where did <PERSON> grow up?
+where is <LOCATION> mountain located?
+what currency do i need in <LOCATION>?
+what country did <PERSON> come from?
+who is <PERSON> married to <DATE>?
+what sport does <PERSON> compete in?
+when did the <LOCATION> quake happened?
+what other countries does <LOCATION> trade with?
+what to see in <LOCATION> at <TIME>?
+who played <PERSON>?
+what is <PERSON> most famous for?
+who did the <ORGANIZATION> revolted against?
+where was the battle of <LOCATION>?
+during what war did <PERSON> serve as president?
+who are <PERSON>'s parents names?
+where is she from <PERSON>?
+who plays captain <PERSON> in <DATE>?
+who did <LOCATION> marry?
+what type of guitar does <PERSON> play?
+what language they speak in the <LOCATION>?
+where is the <LOCATION> national park located?
+what to do with kids in <LOCATION> <DATE>?
+what money does <LOCATION> use?
+what <DURATION> did <PERSON> became president?
+what date did <PERSON> become president?
+what timezone is <LOCATION> in <DATE>?
+who owns <ORGANIZATION> <DATE>?
+what disease has <PERSON> got?
+what do the <MISC> believe?
+who will <PERSON> play for in <DATE>?
+what language they speak in <LOCATION>?
+who owns the <ORGANIZATION>?
+what county is <LOCATION> in?
+what are the basic beliefs of <LOCATION>?
+where did <PERSON> die?
+who was <PERSON> married too?
+where was the ancient region of <LOCATION>?
+who was real housewives <PERSON> married to?
+when did the <ORGANIZATION> <ORDINAL> play in the nba?
+what's the book <PERSON> wrote in prison?
+where is the <MISC> empire located?
+which city held the <DATE> <MISC> twice?
+who are the <ORGANIZATION> owned by?
+what inspired <PERSON> to write poetry?
+what languages are there in <LOCATION>?
+when was the last time the <ORGANIZATION> had a winning season?
+what does <LOCATION> export?
+where did <PERSON> die?
+who was the queen of the <LOCATION>?
+what is the name of the <ORDINAL> prophet of <MISC>?
+who is married to <PERSON>?
+where does <LOCATION> get their oil?
+what language do they speak in <LOCATION>?
+what countries make up continental <LOCATION>?
+what do <MISC> religions have in common?
+what did <PERSON> sing?
+what did <PERSON> do before he was president?
+what sport does <PERSON> compete in?
+where is <LOCATION> located?
+who did <PERSON> marry <ORDINAL>?
+where is <PERSON> from?
+what movies did <PERSON> appear in?
+where does <PERSON> live <DATE>?
+where was the <MISC> colosseum located?
+what date was <PERSON> inaugurated?
+what invention did <PERSON> invent?
+what time zone is <LOCATION> under?
+when did <MISC> predict end of the world?
+what is the name of the book <PERSON> wrote while in prison?
+who voiced <PERSON> in the pilot?
+what <PERSON> do for math?
+where did <PERSON> study?
+who plays <PERSON> in superman returns?
+what did <PERSON> do for science?
+who is the voice of <PERSON> from family guy?
+who uses new king <PERSON>?
+what films did <PERSON> direct?
+who does <PERSON> dating in real life?
+when did <PERSON> leave the eagles?
+when was the musical <PERSON> written?
+what should you see in <LOCATION>?
+who does <PERSON> work for <DATE>?
+what subatomic particles did <PERSON> discover?
+what films have <PERSON> been in?
+who were <PERSON>'s parents?
+what country is the name <PERSON> from?
+who played the voice of <PERSON>?
+what exactly did <PERSON> die from?
+what <DURATION> did <ORGANIZATION> win the championship?
+what kind of government did <PERSON> have?
+who was emperor <PERSON>?
+who is <PERSON>?
+who is <PERSON> and what is his theory?
+what did <PERSON> study in school?
+where did <PERSON> play baseball?
+who is the new governor of <LOCATION>?
+what continent is <LOCATION> part of?
+who was <PERSON>'s best friend?
+what movies has <PERSON> been in <DATE>?
+where does the <MISC> prime minister reside?
+what did <PERSON> get an oscar for?
+what company did <PERSON> work for?
+what happened to <PERSON>'s children?
+where <LOCATION> is located?
+what <DURATION> was the <ORGANIZATION> chief established?
+what <DURATION> did the <ORGANIZATION> win <NUMBER> games?
+who was <PERSON>'s mother?
+where is <ORGANIZATION> located?
+what is the <LOCATION> money called?
+what is the government of <LOCATION> <DATE>?
+where is the <ORGANIZATION> located?
+where did <PERSON> get traded to?
+what do <MISC> call their god?
+what is the capital of <LOCATION> state?
+what was the <LOCATION>?
+what college did <PERSON> go to?
+who speaks <LOCATION>?
+who was <LOCATION> discovered by?
+who were the major trade partners of <LOCATION>?
+what did <PERSON> really die of?
+where did <PERSON> originate?
+where did <PERSON> die?
+where did <PERSON> go to high school?
+who played <PERSON> on general hospital?
+what military school did <PERSON> attend?
+what are <ORGANIZATION> gods?
+who influenced <PERSON>?
+when was the last <ORGANIZATION> super bowl win?
+what language do they speak in <LOCATION> wikipedia?
+when was blessed <PERSON> born?
+when did the <LOCATION> bombings occur?
+what is the political system in <LOCATION>?
+what is the currency in <LOCATION> <DATE>?
+where did <PERSON> go to high school?
+what cases does the <ORGANIZATION> have original jurisdiction over?
+where is the nation of <LOCATION>?
+what are the <MISC> titans?
+what countries speak <MISC> primarily?
+what states does the <LOCATION> touch?
+what is in <LOCATION>?
+what state is <ORGANIZATION> located?
+where was <PERSON> when he died?
+what money do <MISC> use?
+what is the time zone in <LOCATION>?
+what killed <PERSON>?
+what kind of government did the <LOCATION> empire have?
+what is the religion of <LOCATION> people?
+what is <LOCATION>?
+what airport is closest to sandals grande in <LOCATION>?
+which country is north of the <LOCATION>?
+where does drew <PERSON> play?
+who was the <ORDINAL> <LOCATION> president?
+what language does people in <LOCATION> speak?
+what type of language does <LOCATION> speak?
+what countries around the world speak <MISC>?
+who is <PERSON>?
+what does <PERSON> do?
+in which province is <LOCATION>?
+where was <PERSON> standing when he was shot?
+what time do <LOCATION> bars close?
+what state did <PERSON> represent?
+who voiced <MISC> vader in revenge of the sith?
+what type of art is <PERSON> famous for?
+what to do in <LOCATION>?
+who plays princess <PERSON> in star wars?
+where to ski in <LOCATION> reviews?
+who was <PERSON>?
+what are the <NUMBER> nations of the <LOCATION>?
+who was <PERSON> married to?
+where is <PERSON> hometown?
+what disease did <PERSON>?
+what is the name of money in <LOCATION>?
+what <DURATION> did <ORGANIZATION> win championship?
+what did <PERSON> believe with regards to the role of government?
+what is the <ORGANIZATION> mascot?
+what type of government did <LOCATION> have during the glorious revolution?
+who played <PERSON> in the <ORDINAL> movie?
+where was <ORGANIZATION> an international environmental organization founded?
+what does <PERSON> that mean?
+what is the center of <LOCATION> called?
+what was the <ORDINAL> name of the <ORGANIZATION>?
+what sports do they do in <LOCATION>?
+who was the <ORDINAL> leader of the <ORGANIZATION>?
+who is the <ORGANIZATION> football coach?
+when did <LOCATION> admit women?
+where was the battle of <LOCATION> held?
+what was <PERSON> known for?
+what has <PERSON> done wrong?
+which is faster amd dual core or <ORGANIZATION> dual core?
+where did <PERSON> go to college?
+who are the <ORGANIZATION>?
+what time period did <PERSON> live in?
+where does <PERSON> live?
+what currency do they accept in <LOCATION>?
+what river did <PERSON> sail up?
+what currency is used in <LOCATION> <DATE>?
+what do they speak in <LOCATION>?
+who did <PERSON> drive for?
+what happened to <PERSON> childhood home?
+where is the best place to vacation in the <LOCATION>?
+what made ancient <LOCATION> <DATE>?
+where was <PERSON> born?
+what position does <PERSON> play?
+where is the <MISC> <DATE> tournament?
+what time is <DATE> in <LOCATION>?
+what to see and do in <LOCATION>?
+where did <PERSON> grew up?
+what state is <PERSON> from?
+what countries does queen <PERSON> reign?
+when did the <LOCATION> shooting take place?
+what is <PERSON> brothers names?
+what art movements was <PERSON> involved in?
+what are some famous tourist attractions in <LOCATION>?
+who's <PERSON>?
+what type of government system does <LOCATION> have?
+what countries did <LOCATION> become?
+what songs did <PERSON> write?
+what did <PERSON> died from?
+what war was <PERSON> associated with?
+where was <PERSON> elected from?
+who does <PERSON> play for in the nba?
+where <MISC> grew up?
+where did <PERSON> go to jail?
+what type of music did <PERSON> play?
+what do you call money in <LOCATION>?
+what team did <PERSON> play for in college?
+what airport in <LOCATION>?
+what nationality was <PERSON>?
+where did <PERSON> live?
+what ball does <PERSON> play?
+who are the <ORGANIZATION> players?
+where do most of the people live in <LOCATION>?
+in what country do they speak <MISC>?
+where is <LOCATION> at?
+what religions are in <LOCATION>?
+what government system does <LOCATION> have?
+what did <PERSON> do?
+in what country is <LOCATION>?
+what are the most common religions in the <LOCATION>?
+what did <PERSON> go to college for?
+where did sir <PERSON> come from?
+what made <PERSON>?
+who did <ORGANIZATION> football <NUMBER>?
+who plays <PERSON>?
+when did the <ORGANIZATION> win the championship?
+where is mount <PERSON>?
+who created the character of <PERSON>?
+what are some places to visit in <LOCATION>?
+what are the countries and capitals of <LOCATION>?
+where is <LOCATION>?
+what animal is on the <MISC> flag?
+where did <PERSON> play in college?
+what is <PERSON> real name?
+what countries fall in <LOCATION>?
+what are <PERSON>'s albums?
+who is the prime minister of <LOCATION> <DATE>?
+when was <PERSON> made?
+what did king <PERSON> died from?
+what did <PERSON> accomplish?
+who did <PERSON> play for?
+who does the <MISC> worship?
+where is <PERSON> buried?
+what language do people speak in <LOCATION>?
+who sang at the <ORGANIZATION> movie awards <DATE>?
+where do <ORGANIZATION> play?
+what is the <ORGANIZATION> starting lineup?
+what to see and do in <LOCATION>?
+what <DURATION> did <PERSON> get drafted?
+what are the names of <PERSON> children?
+what is <LOCATION>'s state flower called?
+what book did <PERSON> write?
+what religions are found in <LOCATION>?
+what college did drew <PERSON>?
+where is the <ORGANIZATION> headquarters?
+who does <PERSON> play for?
+what is <LOCATION> <DATE> system of government?
+what is <PERSON> trained in?
+what caused the <MISC> currency crisis?
+which countries does <LOCATION> border?
+what season did <PERSON> won?
+what does <ORGANIZATION> produce?
+what did <PERSON> die of?
+who was king or queen after <PERSON>?
+who played <PERSON> in superman <NUMBER>?
+what was <PERSON>'s father's name?
+where is <PERSON> buried?
+what language do <LOCATION> people speak?
+what <PERSON> kids names?
+where is <LOCATION> in the map?
+where did <LOCATION> surrender ww2?
+what did <PERSON> die with?
+what teams did <PERSON>?
+when was <PERSON> elected president?
+where did <PERSON> live?
+when was the <DATE> <LOCATION> stampede?
+when <PERSON> got drafted?
+what kind of money do the <LOCATION> use?
+who played <PERSON> in the wizard of oz movie?
+who does <PERSON> play <NUMBER>?
+what college did <PERSON> go to?
+how many teams are there in the <ORGANIZATION> football?
+who is <PERSON> pretty little liars?
+what type of currency should i take to <LOCATION>?
+what did <PERSON> die of?
+what religion was <PERSON>?
+where was the earthquake in <LOCATION> <DATE>?
+what style of art does <PERSON> do?
+what movies did <PERSON> do?
+what county is <LOCATION>?
+what type of government and economic system does the <LOCATION> have?
+who is <PERSON>?
+where did <PERSON> go to prep school?
+what type of government does <LOCATION> have <DATE>?
+what did <PERSON> discovered in <DATE>?
+what is the very <ORDINAL> <PERSON> book?
+what <PERSON> name her daughter?
+when did the <ORGANIZATION> last win a <DATE> game?
+what kind of government does <LOCATION> have <DATE>?
+where did <PERSON> die?
+who played <PERSON> in star wars episode <NUMBER>?
+what movies has <PERSON>?
+where does <PERSON> play?
+where did <LOCATION> originate?
+what was the <ORDINAL> newspaper called in <LOCATION>?
+where was <PERSON> <DATE> held?
+where does the <ORGANIZATION> play football?
+what <DURATION> did <PERSON> come into the nba?
+where are you if you re in <LOCATION>?
+which country has won the cricket <MISC> the most times?
+what city was <PERSON> born in?
+who does <PERSON> play in lord of the rings?
+which country does <LOCATION> border <NUMBER> the north?
+who sang for <PERSON>?
+who played <PERSON> friend in terminator <NUMBER>?
+what is the <DATE> time in <LOCATION>?
+what shows did <PERSON> produce?
+what state was <ORGANIZATION> gas founded?
+what is the official language of <LOCATION> and <NUMBER> other dialects?
+who is the senator of <LOCATION> <DATE>?
+when was the last time the <ORGANIZATION> went to the super bowl?
+what episode does <PERSON> fade away?
+what is <LOCATION> time zone?
+who wrote <PERSON> <NUMBER> in the bible?
+what do people in the <LOCATION> speak?
+where did <PERSON> get his start?
+who was <PERSON>?
+what are all the things <PERSON> invented?
+what does <LOCATION> speak?
+what is <PERSON>'s nationality?
+where did the sultan of the <MISC> empire live?
+who is playing <PERSON>?
+what position did <PERSON> in the constitutional convention?
+where is the <DATE> <ORGANIZATION> basketball tournament?
+what episode did <PERSON>?
+where are the <MISC> <DATE>?
+what did <PERSON> do?
+where did <PERSON> play?
+where does the <LOCATION> begin?
+what college did lil <PERSON> graduated from?
+where did <PERSON> come from?
+who does <PERSON> drive for <DATE>?
+what <DURATION> did the <ORGANIZATION> win the championship?
+what is the time zone in <LOCATION> <DATE>?
+what does <PERSON> do <DATE>?
+what state did <PERSON> live in?
+where are <ORGANIZATION> headquarters located?
+who is princess <PERSON>?
+what was <PERSON> known for?
+where is the <ORGANIZATION> of fame?
+what do <LOCATION> call their money?
+what was the name of <ORGANIZATION> plane?
+where is located <ORGANIZATION>?
+who is <PERSON> snl?
+what language do they <LOCATION>?
+what did <PERSON> do?
+what team did <PERSON> play for?
+what was <PERSON> nationality?
+what was <PERSON> famous for?
+where was <PERSON> from?
+where do <ORGANIZATION> come from?
+what team is <PERSON> on?
+what to do <LOCATION> dc <DATE>?
+what language is spoken in <LOCATION>?
+who is <PERSON> married too?
+what do <LOCATION> speak?
+what movies did <PERSON> play in?
+who wrote the book of st. <PERSON>?
+who is <PERSON> dad?
+what continent does <LOCATION> belong to?
+what is the capital city of <LOCATION>?
+where is <PERSON>'s home?
+what is <PERSON> in?
+what is the capital of <LOCATION> in <DATE>?
+who killed <PERSON>?
+what was the title of the <ORDINAL> book dr. <PERSON> wrote?
+who owns <ORGANIZATION> car manufacturer?
+where is the <ORGANIZATION> located?
+what did <PERSON> die off?
+what main language do they speak in <LOCATION>?
+where does <PERSON> live?
+what happened to <PERSON> <DATE>?
+how many <MISC> states and territories?
+what was <ORGANIZATION> name?
+who is the governor of <LOCATION> <DATE>?
+when did <PERSON> become president?
+where did <PERSON> started his career?
+what happened <PERSON>?
+what jobs did <PERSON> have?
+where does <ORGANIZATION> operate?
+what does <LOCATION> grow for food?
+where in the bible does it talk about <PERSON>?
+what does <PERSON> play in?
+what language do people speak in <LOCATION>?
+what is the jurisdiction of the <ORGANIZATION>?
+what voice does <PERSON> do on the simpsons?
+who is the leader of <LOCATION>?
+what time zone is the <LOCATION> in <DATE>?
+what instrument does <PERSON> play?
+what position does <PERSON>?
+what branch is made up of the <ORGANIZATION>?
+where did <MISC> originate from?
+where did <LOCATION> battle take place?
+what <DURATION> was the <ORGANIZATION> last world series?
+who is playing <LOCATION> in the avengers movie?
+what country speak <MISC> as native language?
+who was king or queen after <PERSON>?
+what movie did <PERSON> play in?
+when was the last time the <ORGANIZATION> were in the super bowl?
+what religion was <PERSON>?
+who is the <ORGANIZATION> made up of?
+who all has <PERSON> played for?
+where is headquarters of <ORGANIZATION>?
+where is the country of <LOCATION> located?
+who invented <ORGANIZATION> computer?
+where did <PERSON> come from?
+where did <PERSON> grow up?
+what are king <PERSON>?
+when was the <MISC> flag designed?
+where did <ORGANIZATION> come from?
+what makes <PERSON> smart?
+who played <PERSON> in spy kids <NUMBER>?
+what <DURATION> did the <ORGANIZATION> start?
+where did <PERSON> grow up?
+what books did <PERSON> wrote?
+where is <LOCATION> headquarters located?
+who runs the <PERSON> <DATE>?
+where did <PERSON> die?
+where was <PERSON> raised?
+what countries are in the <MISC> region?
+who created <MISC> alphabet?
+when was the last time the <ORGANIZATION> won a <MISC>?
+what airport do you fly into for <LOCATION>?
+who played violet's mother in <PERSON> and the chocolate factory?
+what country was <PERSON> from?
+what <DURATION> did <PERSON> play?
+where does <PERSON> live?
+when did <PERSON> get drafted?
+what does <PERSON> sing?
+who plays <ORGANIZATION>'s best friend?
+what has <PERSON> been in?
+what are the major imports of the <LOCATION>?
+what are the team colors for the <ORGANIZATION>?
+what is the <DATE> government system in <LOCATION>?
+what did <PERSON> die of?
+what is <LOCATION>?
+what did the <ORGANIZATION> used to be?
+what are the major religions practiced in <LOCATION>?
+what does <LOCATION> manufacturer?
+what <DURATION> did <PERSON> run for president?
+what <NUMBER> countries make up <LOCATION>?
+where did <PERSON> live in nyc?
+how many languages are there in the <LOCATION>?
+what song is <PERSON> famous for?
+who did <PERSON> marry?
+who carries <PERSON> paint?
+who was <PERSON> in crazy stupid love?
+where is the <ORGANIZATION> located?
+what team does <PERSON> play for in <DATE>?
+what did the scientist <PERSON> discover?
+where did <PERSON> come from?
+where did <PERSON> go to college?
+who was <PERSON> in soul surfer?
+who plays <PERSON> in family guy?
+what did <PERSON> write?
+where does <PERSON> live map?
+who does the <MISC> worship?
+who was married to <PERSON>?
+what is <PERSON> named for?
+who did <PERSON> coach for?
+where are the nuclear plants in uk?
+what <DURATION> have the <ORGANIZATION> won the <MISC>?
+what did <PERSON> have surgery for?
+who was the leader of the <LOCATION> in <DATE>?
+who does <PERSON> play for?
+what god do <MISC> believe in?
+what movies have <PERSON> produced?
+where did <PERSON> go to high school?
+what <DURATION> did the <ORGANIZATION> go to the world series?
+who owns the <ORGANIZATION>?
+what language do <MISC> speak?
+what legal system does <LOCATION> use?
+who does <PERSON> play on <NUMBER> tree hill?
+what inspired <PERSON>?
+what battle did <LOCATION> surrender in <NUMBER>?
+who was the <ORGANIZATION> coach in <DATE>?
+what airport is closer to downtown <LOCATION>?
+where does <PERSON> live?
+what city is fc <ORGANIZATION> <NUMBER> in?
+what system of government is used in <LOCATION>?
+where did <PERSON> da verrazano come from?
+what airport is close to <LOCATION>?
+what was <PERSON> <ORDINAL> movie?
+who did the <ORGANIZATION> draft in <DATE>?
+who won the governor election in <LOCATION>?
+where did <PERSON> perform most of his plays?
+what group is <PERSON> in?
+what college did <PERSON> go to?
+what wild animals live in <LOCATION>?
+where is <LOCATION> parliament?
+when does <DATE> start in <LOCATION>?
+who invented <MISC> alphabet?
+where was president <PERSON> from?
+what did <PERSON> compose?
+what language did <MISC> people speak?
+who does <PERSON> play for in <DATE>?
+what <DURATION> did <PERSON> play?
+who played <PERSON>?
+what does the <MISC> calendar say <DATE>?
+what clubs has <PERSON> played for?
+who plays the brother in <LOCATION>?
+what team does <PERSON> play for <DATE>?
+what highschool did <PERSON> go to?
+who owns <ORGANIZATION>?
+who did <PERSON> marry?
+where is the <ORGANIZATION>?
+what has <PERSON> been in?
+where do <PERSON> live?
+when did <ORGANIZATION> officially open?
+what team does <PERSON> play for <DATE>?
+what to do with kids in <LOCATION>?
+where is <LOCATION>?
+who did <PERSON> sign with?
+who will sponsor <PERSON> in <DATE>?
+where <ORGANIZATION> originate?
+who played emperor <PERSON>?
+what is <TIME> est in <LOCATION>?
+where are the pyramids of <LOCATION> located?
+when does <PERSON> race <DATE>?
+who were <ORGANIZATION>'s brothers and sisters?
+what instrument was <PERSON> famous for?
+what date did the <ORGANIZATION> win the world series?
+what province is <LOCATION>'s capital located in?
+on which continent is the <LOCATION> located?
+where is <LOCATION> on a world map?
+what to see in <LOCATION> in <DATE>?
+what is the main language of <LOCATION>?
+what college did <PERSON>?
+what did <PERSON> die of?
+who was king <PERSON>?
+where did <PERSON> live in?
+where is made <ORGANIZATION> car?
+what are all the songs <PERSON> is in?
+what groups was <PERSON> involved in?
+what college did <PERSON> go to?
+what kind of language do they speak in <LOCATION>?
+what to see in <LOCATION> downtown?
+what kind of money does the <LOCATION> use?
+what did <PERSON> make?
+what movies has <PERSON> been in?
+who was <PERSON>?
+who were ulysses s grant and <PERSON>?
+what is the last movie <PERSON> made?
+with which countries does <LOCATION> trade?
+what kind of language do they speak in <LOCATION>?
+what office does <PERSON> hold?
+where does <MISC> language come from?
+what are the major religions in <LOCATION>?
+where did <PERSON> go to school?
+what type of guitar does <PERSON> play?
+when did <ORGANIZATION> become a team?
+what is the zip code for <LOCATION> ca?
+what continent is the <LOCATION> located in?
+what is the currency of <LOCATION> called?
+which country is to the north of the <LOCATION>?
+what <NUMBER> states border the <LOCATION>?
+what did <PERSON> do to become famous?
+where was <PERSON> born?
+what are the <NUMBER> official languages of <LOCATION>?
+what type of government does <LOCATION> <DATE> have?
+which countries do <LOCATION> border?
+what county is <LOCATION> located in?
+who has coached the <ORGANIZATION>?
+what movies have queen <PERSON> played in?
+what is the short name for <PERSON>?
+where are they <DATE> <PERSON>?
+what <DURATION> did <PERSON> enter the nba?
+who played <PERSON> on the tv show?
+who was the vice president when <PERSON> was in office?
+which countries does <LOCATION> export to?
+what to do in downtown <LOCATION>?
+what other cars does gm make?
+who did <PERSON> get engaged to?
+what movies does <PERSON> play in?
+what instruments does <PERSON> use?
+who does <PERSON> play with?
+what is the language spoken in <LOCATION>?
+who was <PERSON>'s <ORDINAL> wife?
+where do <MISC> devils live?
+what a city in <LOCATION>?
+what timezone is <LOCATION>?
+what was the <ORGANIZATION> old name?
+what type of political system does <LOCATION> have?
+what is the political system in <LOCATION>?
+what airport is in <LOCATION>?
+what is <PERSON> play style?
+where are <ORGANIZATION> cc made?
+what team <PERSON> play for?
+what currency should i take to <LOCATION>?
+what is <LOCATION> state bird?
+what places can you visit in <LOCATION>?
+what did <PERSON> do for a living before he became president?
+what <NUMBER> continents touch the <LOCATION>?
+what language do u speak in <LOCATION>?
+what teams has <PERSON> played for?
+what countries in <LOCATION> continent?
+what time zone is <LOCATION> co?
+what school did <PERSON> go to?
+who did <PERSON> married?
+when did the name <PERSON> <ORDINAL> appear?
+who play <PERSON>?
+what is the best island to visit in <LOCATION>?
+where did <PERSON> live?
+what music did <PERSON> composed?
+what does the name <LOCATION> mean?
+what inspired <PERSON>?
+what did <PERSON> do?
+who was <PERSON> and what did he do?
+what influenced <PERSON> to write?
+where did <PERSON> die?
+what to do in <LOCATION> during the <DATE>?
+where did <PERSON> travel?
+who was <PERSON> married to?
+when was the last time the <ORGANIZATION> make the playoffs?
+what do they speak in <LOCATION>?
+what kind of insurance does <ORGANIZATION> offer?
+who is the prime minister of <LOCATION> <DATE>?
+what time is <LOCATION> <DATE>?
+what did <PERSON> sister died of?
+who is <PERSON>?
+where did <PERSON> live?
+who do <MISC> give authority to?
+where did pres. <PERSON> go to school?
+who is <PERSON> playing in perks of being a wallflower?
+when did <LOCATION> burn?
+what is there to see in <LOCATION>?
+who is <PERSON> oracle?
+what is the zip code for <LOCATION>?
+what teams drafted the <ORGANIZATION>?
+what state does <PERSON> come from?
+who does <PERSON> play for club?
+what did <MISC> speak?
+what is <ORGANIZATION>'s mascot?
+what did <PERSON> die off?
+when was <PERSON> sworn in?
+what middle school did <PERSON> attend?
+what are the airports in <LOCATION>?
+what was <PERSON> famous for?
+where did <PERSON> go to school?
+who won <DATE> presidential election in <LOCATION>?
+what does <PERSON> own?
+what did <PERSON> discover with his cathode ray tube experiment?
+where did <PERSON> go to school?
+what are the major religions in <LOCATION>?
+what do most <MISC> speak?
+who was the general for the <MISC> in the revolutionary war?
+what to do at <LOCATION> ca?
+where president <PERSON> was born?
+what currency does <LOCATION> accept?
+what else did <PERSON> invent?
+who founded <LOCATION>?
+where did <PERSON> attend school?
+what jobs did <PERSON> have?
+where to travel around <LOCATION>?
+what are the names of <PERSON> movies?
+what are the islands of <LOCATION>?
+what timezone is <LOCATION> on?
+what is the currency in <LOCATION>?
+where is the head office of <ORGANIZATION>?
+what is the currency in <LOCATION> <DATE>?
+where was <PERSON> from?
+where is <LOCATION> exactly located?
+what is the currency name of <LOCATION>?
+what movies did <PERSON> play in?
+what kind of government does <LOCATION> have?
+what medium is the school of <LOCATION>?
+what <DURATION> <PERSON> came in the nba?
+what <DURATION> did <ORGANIZATION> win the world series?
+what movie did <PERSON> won an academy award for?
+who is <PERSON> with <DATE>?
+who is the <DATE> leader of <LOCATION> <DATE>?
+where <LOCATION> located?
+what countries did queen <PERSON> ii rule?
+who played <MISC> as a kid?
+where was the battle of <LOCATION> held?
+what kind of artist is <PERSON>?
+what are the <ORGANIZATION> kids names and ages?
+where does <PERSON> live in ny?
+what is the official language in <LOCATION>?
+what wars did <PERSON> served in?
+who is the head coach of the <ORGANIZATION>?
+what type of government does <LOCATION> have?
+in what state did the bloody battle of <ORGANIZATION> take place?
+where did <MISC> people originate from?
+who was <PERSON>?
+what language do people speak in <LOCATION>?
+what are all the inventions <PERSON> made?
+what was wrong with <PERSON>?
+who does <PERSON> go out with?
+what country was <PERSON> from?
+what is the time in <LOCATION> if it is <TIME> in <LOCATION>?
+who played <PERSON> on <NUMBER> life to live?
+what does <LOCATION> consist of?
+who is the manager of the <ORGANIZATION>?
+where in <LOCATION> was stand by me filmed?
+what country <PERSON> sail for?
+what did writers of the <LOCATION> renaissance write about?
+what is the language they speak in <LOCATION>?
+where to live in <LOCATION> ga?
+what is the currency in <LOCATION> <DATE>?
+where did prophet <PERSON> died?
+what state was <PERSON> from?
+what does the term prima <PERSON> mean?
+what form of government does <LOCATION> have?
+where did <PERSON> go to highschool?
+where was <PERSON> l'ouverture from?
+where do the <ORGANIZATION> play?
+what type of art does wassily <PERSON> do?
+who won <LOCATION> mayoral elections <DATE>?
+who was <PERSON> father?
+what influenced <PERSON> to be an artist?
+where do the <MISC> live?
+what super bowls have the <ORGANIZATION> won?
+where was <PERSON> born?
+what did <PERSON> go to prison for?
+which country uses euro as its main currency?
+who is ruling <LOCATION> <DATE>?
+who played <PERSON> in the lord of the rings movies?
+where is the parliament in <LOCATION>?
+what important office did <PERSON> hold?
+which country has adopted the <MISC> as its currency ( <NUMBER> point )?
+where did <PERSON> play high school basketball?
+what type of cancer did <PERSON> die of?
+what timezone is <LOCATION> in?
+who is <PERSON>?
+who is <PERSON>?
+what was <PERSON> occupation?
+what did <PERSON> contribute to the industrial revolution?
+what kind of currency does <LOCATION> have?
+when did <ORGANIZATION> win a trophy?
+where is the <LOCATION> located?
+where is isthmus of <LOCATION> located?
+what to see in <LOCATION> in <DURATION>?
+where is <LOCATION>?
+what is the money of <LOCATION> called?
+what college did <PERSON> play for?
+what did <PERSON> do?
+what sights to see in <LOCATION>?
+what good things has <MISC> jolie done?
+what films has <PERSON> starred in?
+what films did <PERSON> wrote music for?
+where was <PERSON> born?
+what did <PERSON> died of?
+what is means testing <MISC>?
+who did <PERSON>?
+what time zone in the <LOCATION>?
+what is the political system in <LOCATION>?
+who is the leader of <LOCATION> <DATE>?
+who is <PERSON>'s daughter?
+what kind of art did <PERSON> produce?
+what does the <LOCATION> flow into?
+what states does the <LOCATION> flow through?
+what money is used in the <LOCATION>?
+what is <PERSON>?
+where does <PERSON> coach?
+what is the zip code of <LOCATION>?
+what condition does <PERSON> have?
+where did jrr <ORGANIZATION> live?
+what are the major languages of <LOCATION>?
+what to do in <LOCATION> fl?
+what is currency in <LOCATION>?
+where is <LOCATION> on map?
+where does the tsunami happened in <LOCATION>?
+where are the great pyramid of <LOCATION> located?
+what was <PERSON>'s character in star wars?
+who plays the voice of <PERSON>?
+what team does <PERSON> play for?
+what is the capital of <LOCATION>?
+when did they stop making <ORGANIZATION>?
+what color is <PERSON> red hair?
+who is the <DATE> chief justice of the <ORGANIZATION>?
+who is <PERSON>?
+what is <PERSON>'s son name?
+what did <PERSON> invent?
+who does <PERSON> play in the hunger games?
+where to eat in <LOCATION>?
+what is the state flag of <LOCATION> called?
+who plays <PERSON> in lost?
+who are senators from <LOCATION>?
+who does <PERSON> play in breaking <TIME>?
+what language do <LOCATION>?
+where <PERSON> come from?
+who is <ORGANIZATION>'s founder?
+what kind of money do you use in <LOCATION>?
+what language do people speak in <LOCATION>?
+what kind of music does <PERSON> play?
+what is lil <PERSON> real name?
+what is the political system of the <LOCATION>?
+what religions are practiced in <LOCATION>?
+where is the <MISC> <DATE> being played?
+what kind of language do <MISC> speak?
+what cancer did <PERSON> died of?
+where does <PERSON> live <DATE>?
+where was <PERSON> born?
+where do <MISC> people live?
+what timezone is <LOCATION> in?
+where is <LOCATION> located?
+who was the fascist dictator of <LOCATION>?
+what is <MISC> currency?
+what did <PERSON> do?
+what team does <PERSON> play for?
+where do most <MISC> live?
+when did the <ORGANIZATION> win the superbowl?
+where is the <MISC> used?
+how rich is the <MISC> church?
+what <DURATION> is it going to be on the <MISC> calendar?
+where did <PERSON> go to school?
+what date did we invade <LOCATION>?
+what is the <ORGANIZATION> new name?
+what did <PERSON> look like?
+who is <PERSON> dating <DATE> in <DATE>?
+what do the <PERSON> believe in?
+when did <ORGANIZATION> win the world series?
+what is the name of <PERSON>'s son?
+what are some sights to see in <LOCATION>?
+where is <PERSON> tennessee whiskey made?
+what is the battle of <LOCATION>?
+what time zone is it in <LOCATION>?
+who was governor of <LOCATION> in <DATE>?
+what is <ORGANIZATION> mascot?
+what is the currency used in <LOCATION>?
+what language group does <MISC> belong to?
+what is the name of the <ORGANIZATION> football stadium?
+what are <NUMBER> countries that border <LOCATION>?
+where was hockey <MISC> <DATE> held?
+where did <PERSON> fled to?
+when did <PERSON> made his odi debut?
+what type of music was <PERSON> noted for?
+where did <PERSON> go to college?
+what happened to <PERSON>'s uncle?
+where is <PERSON> from?
+who became president after <PERSON> died?
+in what city did <PERSON> live?
+what illnesses did <PERSON> have?
+where is <LOCATION> located?
+who is <PERSON> boyfriend <DATE>?
+who was the voice of <PERSON>?
+who is the speaker of the <ORGANIZATION> <DATE>?
+when did <PERSON> <ORDINAL> appear on ncis?
+who is <PERSON>?
+where did the <MISC> missile crisis happen?
+what is <PERSON> famous for?
+where is the original <PERSON>?
+what is <PERSON> on wipeout?
+what type of language does <LOCATION> speak?
+where is <LOCATION> tx?
+which team does <LOCATION> play for <DATE>?
+what kind of books does <PERSON> wrote?
+what happened to the people in <LOCATION>?
+what countries has <MISC> as their official language?
+who was the communist dictator of <LOCATION>?
+who was the leader of <LOCATION> in wwii?
+what business does <PERSON> do?
+what movies is <PERSON> in?
+what is the time zone in <LOCATION> called?
+what team does <PERSON> play for <DATE>?
+what did <PERSON> accomplish?
+what was the name of the newspaper where <PERSON> wrote?
+who will <PERSON> play for in <DATE>?
+what is the northeast of the <LOCATION>?
+what does the <MISC> word boer mean?
+what currency does <LOCATION> use?
+what timezone does <LOCATION> have?
+who played <PERSON>?
+where does the <LOCATION> end?
+what did <PERSON> do before tv?
+what is the money currency in <LOCATION>?
+what state did <PERSON> live in?
+where is <LOCATION>?
+where is <ORGANIZATION> car from?
+where did <PERSON> live before the flood?
+when did <PERSON> take office?
+where do the <LOCATION> chiefs play?
+what countries does the <LOCATION> run through?
+in what modern country is the <LOCATION> located?
+what does <ORGANIZATION> sell?
+who is <PERSON>?
+what type of political system does <LOCATION> have?
+who does the voice of <PERSON> in family guy?
+what are all the movies <PERSON> has been in?
+where is the country of <LOCATION> located?
+what state did <PERSON> represent?
+what hardships did <PERSON> overcome?
+where is <ORGANIZATION> located?
+who was <PERSON> influenced by?
+which countries use <MISC> money?
+where is <LOCATION> located?
+what <DURATION> was <PERSON> drafted?
+what illnesses did <PERSON> suffer from?
+what are some places to visit in <LOCATION>?
+what happened to <PERSON>?
+where is <LOCATION>?
+who played princess <PERSON> from star wars?
+who is the <DATE> queen of <LOCATION>?
+where did <ORGANIZATION> go to school?
+who all was <PERSON> married to?
+who did <PERSON> play for?
+what did <PERSON> invented?
+what's <LOCATION> country code?
+where <PERSON> went to school?
+who should play <PERSON>?
+what currency should i take to <LOCATION>?
+what county is <LOCATION> il in?
+what country is the <LOCATION> located in?
+who founded the sisters of saint <PERSON>?
+who shot and killed president <PERSON>?
+what is there to do in <LOCATION> in <DATE>?
+where does the <MISC> football team train?
+who did <PERSON> wrote her diary to?
+who is <PERSON> engaged to?
+what do people in <LOCATION> speak?
+where <LOCATION> located?
+what state was <PERSON> a senator for?
+what market does <ORGANIZATION> operate in?
+what country does <ORGANIZATION> operate in?
+what cities are in <LOCATION>?
+what characters does <PERSON> voice?
+where will <MISC> <DATE> be?
+who the voice of <PERSON>?
+when did the <ORDINAL> <PERSON> book come out?
+what is the parliament of <LOCATION> called?
+where is <LOCATION> located?
+who are <PERSON>'s parents?
+what political system does <LOCATION> use?
+what are american <ORGANIZATION>?
+who is the <DATE> coach of the <ORGANIZATION>?
+what language is mainly spoken in <LOCATION>?
+what awards has <PERSON> won?
+who will <PERSON> drive for in <DATE>?
+what kind of government does the <LOCATION> have <DATE>?
+who were <PERSON>'s brothers and sisters?
+when is the last time the <ORGANIZATION> won a championship?
+what is the <ORGANIZATION> mascot?
+where to stay in <LOCATION>?
+what teams did <PERSON> own?
+who does <PERSON> play in batman returns?
+what to see and do in <LOCATION>?
+what land did god give to <LOCATION>?
+what guitar did <PERSON> use?
+what style of art did <PERSON> do?
+what was <MISC> discovery?
+where did the <MISC> come from?
+what country did <PERSON> live in?
+where was the <MISC> empire centered?
+who played <PERSON> in heroes?
+which ocean does the <LOCATION> flow into?
+what time zone is <LOCATION> oh in?
+who was <PERSON> and why was he important?
+where does <PERSON> live?
+what are <MISC> countries?
+who became president when <PERSON> was killed?
+where is <LOCATION>?
+where are the mines in <LOCATION>?
+what <DURATION> have the <ORGANIZATION> been in the world series?
+what car companies does <ORGANIZATION> company own?
+what did god say to <PERSON> about circumcision?
+what type of government does the <LOCATION>?
+what style of music did <PERSON> play?
+what character does <PERSON> play on family guy?
+who played <PERSON> in phantom menace?
+what language do the people in <LOCATION> speak?
+where is <PERSON>?
+what language people speak in <LOCATION>?
+where was the battle of <LOCATION> located?
+where is the cruise ship terminal in <LOCATION> bc?
+where was the <LOCATION> campaign waged?
+what was <PERSON>'s wife's name?
+what does the <MISC> call their country?
+what did king <PERSON> die of?
+what type of currency is used in the <LOCATION>?
+where did <PERSON> graduate from college?
+what city was <PERSON> killed in?
+when are school holidays in <LOCATION> <DATE>?
+who plays the new <PERSON>?
+who was killed <ORDINAL> <MISC> or biggie?
+what kind of currency to bring to <LOCATION>?
+who won the <MISC> in <DATE>?
+what theme songs did <PERSON> wrote?
+what films did <PERSON> star in?
+where is <ORGANIZATION> headquarters?
+who is <PERSON> getting married to?
+who plays <PERSON> in jumanji?
+what type of music is <PERSON>?
+when is <MISC> tennis tournament?
+what <DURATION> did <PERSON> run for president?
+where did <PERSON> go to school?
+what shows are on in <LOCATION> at the moment?
+where is <MISC> an official language?
+what language do you speak in <LOCATION>?
+who did <MISC> shakur date?
+who does <PERSON> play in the avengers?
+what is the closest airport to <LOCATION>?
+what did <PERSON> die of?
+who is the governor of <LOCATION> <DATE>?
+what timezone is <LOCATION>?
+what blood disease does <PERSON> have?
+who seized power in <LOCATION> in <DATE>?
+what show is <PERSON> on?
+who did <PERSON> have a baby with?
+what currency does <LOCATION> use?
+where to get married in north <LOCATION>?
+what do ethnic <MISC> look like?
+what places made up the western <MISC> empire?
+what experiments did <PERSON> conduct?
+what company did <PERSON> run?
+what is <PERSON> real name?
+what is the king of <LOCATION>'s name?
+who is <PERSON>?
+where did <PERSON> grew up?
+what district does <PERSON> represent?
+when was the last superbowl win for the <ORGANIZATION>?
+what language do they speak in <LOCATION> yahoo?
+who drafted <PERSON>?
+what is zip code for <LOCATION>?
+what is the name of book written by <PERSON>?
+what did <PERSON> win gold for?
+who did the voice of <MISC> vader in star wars?
+what are the <ORGANIZATION> kids full names?
+who is prime minister of <LOCATION> <DATE>?
+what <DURATION> did <PERSON> get drafted?
+what equipment does porter <PERSON> use?
+who plays the voice of <PERSON>?
+who is <PERSON> jr wife?
+who is the new governor of <LOCATION> <DATE>?
+what kind of money does the <LOCATION> use?
+what books did <PERSON>?
+where in <LOCATION> are scorpions found?
+where does the <ORGANIZATION> soccer team play?
+where is the <MISC> language derived from?
+what <NUMBER> countries border <LOCATION>?
+what does <LOCATION> export?
+what type of planes does <LOCATION> fly?
+what city is the <ORGANIZATION> in?
+where did <PERSON> live before the war?
+where was <PERSON> born?
+which country is located directly east of <LOCATION>?
+who are <LOCATION>'s major trading partners?
+where do the <ORGANIZATION> play baseball?
+what happened to the battle of <ORGANIZATION>?
+what type of currency does <LOCATION> have?
+what club team is <PERSON> on?
+what state is <ORGANIZATION> online located?
+who do <MISC> worship?
+what timezone are the <LOCATION>?
+where did l <PERSON> die?
+what is the episode of family guy when <PERSON> makes his own country?
+what inspired <PERSON> to write?
+who is the leader of <LOCATION> <DATE>?
+where did <PERSON> play?
+what musical instruments did <PERSON> play?
+where is the <ORGANIZATION>?
+what all does <ORGANIZATION> have?
+what is the <ORGANIZATION> <DATE> roster?
+what features do <MISC> and christianity have in common?
+what was queen <PERSON> of?
+who plays <PERSON>?
+what movies did <PERSON> play in?
+what tv shows are taped in <LOCATION>?
+what did <PERSON> die of?
+where is the <MISC> desert located?
+what kind of mental illness did <PERSON> have?
+who is prime minister of <LOCATION> <DATE>?
+what city was <PERSON> born in?
+what airport do you fly into to get to <LOCATION>?
+what countries speak <MISC> wikipedia?
+what films have <PERSON> been in?
+who runs <LOCATION> <DATE>?
+what major airport is near <LOCATION>?
+what country did <PERSON> came from?
+what is the <DATE> government of <LOCATION>?
+what countries was the <MISC> between?
+what to see outside of <LOCATION>?
+what does <MISC> stand for?
+where is the <ORGANIZATION> located and when was the building opened?
+where did <PERSON> live?
+who did <PERSON> date?
+where <PERSON> was born?
+who did <PERSON> play in parent trap?
+what does <PERSON> sing?
+who plays young <PERSON> in smallville?
+who is <PERSON> playing for in <DATE>?
+what are the main sports in <LOCATION>?
+who makes <PERSON> voice?
+what is the zip code for <LOCATION> ga?
+what language do you speak in <LOCATION>?
+what kind of system of government does the <LOCATION> have?
+what inventions did <PERSON> made?
+what was lebron <PERSON> <DURATION>?
+what are <ORGANIZATION> kids names?
+who does <PERSON> play for?
+what position does <PERSON> play?
+what is <PERSON> famous for?
+what did <PERSON> go to college for?
+what are the <NUMBER> official languages of <LOCATION>?
+where is <LOCATION> concentration camp located?
+who was <PERSON>?
+what was the name of <PERSON>?
+what did <PERSON> die from?
+what <DURATION> did <PERSON> get married?
+where was <PERSON> really born?
+who did <PERSON> sign with?
+what is the best neighborhood to live in in <LOCATION>?
+when did the battle of <LOCATION> occur?
+where did <PERSON> go to school?
+what do you say after a sneeze in <MISC>?
+what country does <LOCATION> trade with?
+where is <ORGANIZATION> <NUMBER> made?
+what do people speak in <LOCATION>?
+what is the currency in <LOCATION> <DATE>?
+what is the mascot of <ORGANIZATION>?
+what country is next to <LOCATION>?
+who played <PERSON>?
+who pays social security and <ORGANIZATION>?
+what movies star <PERSON>?
+what university did <PERSON> graduated from?
+who plays <PERSON> on ncis?
+where did president <PERSON> go to school?
+when did the <ORGANIZATION> last win a championship?
+what happened at <ORGANIZATION> nuclear plant?
+who was <PERSON>?
+what country do <MISC> people come from?
+when did the <ORGANIZATION> win the pennant?
+where did <PERSON> die?
+what was prince <PERSON> last name?
+what was <PERSON> before president?
+what type of legal system does <LOCATION> have?
+where did <PERSON> work?
+what website did <PERSON> co founder?
+what bass does <PERSON> use?
+who played captain <PERSON> in star trek?
+what type of currency does the <LOCATION> have?
+what currency does <LOCATION> use?
+where is <LOCATION>?
+in which province <LOCATION> is located?
+what does <PERSON> do for living?
+where is <LOCATION> on a map?
+what did <ORGANIZATION> announce at <NUMBER> <DATE>?
+what can you do in <LOCATION> ca?
+where is <LOCATION>?
+when was the last time the <ORGANIZATION> played in the superbowl?
+who is <PERSON>?
+who was the president of <LOCATION> in <DATE>?
+which college did <PERSON> attend?
+where was st <PERSON> born?
+what does the <LOCATION> border?
+what time do the polls open in <LOCATION> <DATE>?
+what teams played in the <DATE> <MISC>?
+what colony is <PERSON> from?
+what countries do <LOCATION> border?
+who does <LOCATION> trade with the most?
+what language do the <MISC> speak?
+who plays <PERSON> in spiderman <NUMBER>?
+where was <PERSON> buried?
+who was the grandson of king <PERSON>'s father?
+when president <PERSON> was elected?
+when was the last time the <ORGANIZATION> won the super bowl?
+what did <PERSON> do that brought him to national prominence?
+where is <PERSON> <DATE>?
+who did the <ORGANIZATION> draft?
+who was <PERSON>'s parents?
+what to do when traveling to <LOCATION>?
+where is <LOCATION>?
+what should i do <DATE> in <LOCATION>?
+where does the <MISC> language come from?
+when do they change the time in <LOCATION>?
+where does <PERSON> live <DATE>?
+what timezone is <LOCATION>?
+what political party was <PERSON>?
+what is capital city of <LOCATION>?
+what money is used in <LOCATION>?
+who did <PERSON> married?
+who is the voice of <PERSON> from family guy?
+what was <PERSON>'s <ORDINAL> cartoon called?
+what did <PERSON> accomplish?
+what currency do i need in <LOCATION>?
+who was the founder of the colony of <LOCATION>?
+where is <PERSON> park rugby stadium?
+what does the letters <ORGANIZATION> stand for?
+what are the <NUMBER> countries in the <LOCATION>?
+what label is <PERSON> signed to?
+who is the state senator of <LOCATION>?
+where did <PERSON> die?
+what does <MISC> people speak?
+who is playing <PERSON> on general hospital?
+where is <LOCATION>?
+what countries do they speak <MISC>?
+who does <PERSON> play for in <DATE>?
+who <PERSON> play in <TIME>?
+who does <PERSON> play for in the nba?
+who played <PERSON> in the x files?
+what are <PERSON>'s parents names?
+what tourist attractions are in <LOCATION>?
+who are the <DATE> <LOCATION> senators?
+where is the capital of <LOCATION> on the map?
+what time does <PERSON> and noble close on <DATE>?
+what kind of paintings did <PERSON> do?
+what was <PERSON> known for?
+what form of government does <LOCATION> use?
+where did the <LOCATION> begin?
+who was the original voice of <PERSON> on family guy?
+what movies has <PERSON> been in?
+who did <PERSON> married?
+who won the <MISC> in <DATE> for physics?
+what is <PERSON> sport?
+where is <LOCATION> bora bora?
+what are all of <PERSON> albums?
+where did <PERSON> live?
+who is my state senator and representative <LOCATION>?
+what films has <PERSON> starred in?
+where do <ORGANIZATION> play?
+where did <PERSON> surrender to grant to end the civil war?
+what does <PERSON> do?
+what teams did <PERSON> play for in the nba?
+who did <PERSON> play for?
+what kind of currency does <LOCATION> use?
+who is <PERSON> parents?
+what movies have <PERSON> starred in?
+what are the <MISC> scriptures called?
+what political party is <PERSON> from?
+what organization did <PERSON> lead?
+where did the name <MISC> come from?
+what was <PERSON> famous for?
+what <DURATION> did <PERSON> started his career?
+what currency should you take to <LOCATION>?
+what kind of guitar does <PERSON> play?
+where is greyhound station in <LOCATION>?
+where was <PERSON> born and in what <DURATION>?
+what kind of money is used in <LOCATION>?
+where is <PERSON> from?
+what did <PERSON> do in the revolutionary war?
+who is the <ORGANIZATION> quarterback <DATE>?
+what is the zip code for <LOCATION>?
+what is <LOCATION> state's mascot?
+what is the work of <PERSON>?
+what movies have <PERSON> been in?
+what was <NUMBER> of <PERSON>'s inventions?
+where did <PERSON> go to college?
+what is the most practiced religion in the <LOCATION>?
+what does <PERSON> sing?
+what school did <MISC> go to?
+what does <LOCATION> speak?
+where did the <MISC> live?
+what <DURATION> did the <ORGANIZATION> win their <ORDINAL> championship?
+what college did <PERSON> attend?
+what is the official language spoken in <LOCATION>?
+what county is <LOCATION> mn in?
+what religion in <LOCATION>?
+who is queen <PERSON> <NUMBER> father?
+what other languages does <LOCATION> speak?
+what team is <LOCATION> on?
+who plays <PERSON>?
+who is <PERSON> wife bio?
+what kind of government system does <LOCATION> have?
+what type of government did <LOCATION> have?
+where to vacation in <LOCATION> in <DATE>?
+what culture lived in <LOCATION>?
+what kind of voting system does <LOCATION> have?
+what are the names of all the countries in <LOCATION>?
+who started the <ORDINAL> <MISC>?
+what is the name of the <ORGANIZATION> stadium?
+who was <PERSON> married too?
+where was <PERSON> born?
+what was <PERSON> wife name?
+who plays <PERSON> in buffy the vampire slayer?
+where was emperor <PERSON> born?
+when was <ORGANIZATION> released to the public?
+who became president when <PERSON> died in office?
+where did <PERSON> went to school?
+where did <PERSON> go to college?
+what was the colosseum in <LOCATION> used for?
+who voice acts <PERSON>?
+who was <PERSON> married to?
+who plays <PERSON> on desperate housewives?
+what <DURATION> was <PERSON> rookie <DURATION>?
+what timezone is the state of <LOCATION>?
+what did <PERSON> identify?
+what airport is closest to <LOCATION> ny?
+where did <PERSON> die?
+what county is <LOCATION> in?
+where was the battle of <LOCATION> held?
+what system of government does <LOCATION> have?
+who played boss <PERSON> of hazzard?
+who played <PERSON> in knight rider?
+what religion did the <MISC> turks follow?
+what is <ORGANIZATION> known for?
+what timezone is <LOCATION> gmt?
+what religion is king <PERSON>?
+what countries did <LOCATION> take over during world war <NUMBER>?
+where did <PERSON> go to school?
+who was <PERSON> and what did he do?
+where do you fly into for <LOCATION>?
+where did <PERSON> grow up?
+what was basketball player <PERSON>'s major in college?
+who made the <ORGANIZATION>?
+what kind government does <LOCATION> have?
+where does dr. <PERSON> practice?
+what did <LOCATION> discover or invent?
+who played <PERSON>?
+what happened to <PERSON> wwe?
+when is the next <LOCATION> motor show?
+who does <PERSON> play for in <DATE>?
+when and where did the battle of <ORGANIZATION> take place?
+what movies did <PERSON> direct?
+what countries does <LOCATION> border?
+what season does <PERSON> have her <ORDINAL> baby?
+what <NUMBER> countries speak <MISC>?
+when <PERSON> was president?
+what job did <PERSON> jr have?
+what characters does <PERSON> voice?
+where did macho <PERSON> got shot at?
+what has <PERSON> played in?
+what time does target in <LOCATION> close?
+who is <PERSON> and what did he do?
+who plays <PERSON> on angel?
+what form of government exists in <LOCATION>?
+what influenced <PERSON> to become president?
+who is <PERSON>?
+when last did <ORGANIZATION> win the champions league?
+who was the winner of the <DATE> <MISC>?
+who is ruling <LOCATION> <DATE>?
+what bible do <MISC> use?
+who does <PERSON> play for <DATE>?
+what state did <PERSON> represent?
+what country was <PERSON> born in?
+which states does the <LOCATION> pass through?
+where was san <PERSON> located?
+who was the emperor before <PERSON>?
+what type of artwork did <PERSON> produce?
+what is <PERSON>'s mom's name?
+what type of music does <PERSON> sing?
+where do the <ORGANIZATION> play <DATE> training?
+what are the best places to go in <LOCATION>?
+what movies are directed by <PERSON>?
+what instrument does <PERSON> play?
+what movies does <PERSON> play in?
+where is <MISC> located?
+what movies does <PERSON> play in?
+who did <PERSON>?
+when are school holidays in <LOCATION> <DATE>?
+what region is <LOCATION> in?
+who the voice of <PERSON>?
+who raised queen <PERSON>?
+who are the famous athletes in <LOCATION>?
+what to see in <LOCATION>?
+what continent is <LOCATION> located?
+what language do <MISC> use?
+what teams did <PERSON> play on?
+where was <PERSON> educated?
+who did <PERSON> play <NUMBER>?
+who played <PERSON> in scrubs?
+what was the name of the book <PERSON> wrote while in prison?
+where did <PERSON> land?
+what is the name of the main train station in <LOCATION>?
+what is the large mountain range in the western <LOCATION>?
+what is <MISC>?
+what are the major languages in <LOCATION>?
+where did the battle of <LOCATION> start?
+what does the <LOCATION> speak?
+when did <PERSON> won the cy young?
+who is <PERSON> and what did he do?
+where is the thalys train station in <LOCATION>?
+what airlines hub in <LOCATION>?
+where did <PERSON> go to college?
+who did <PERSON>?
+who played <PERSON> in toy story <NUMBER>?
+where is <PERSON> from?
+who was <ORGANIZATION>?
+what school did <PERSON> go to?
+what movies did <PERSON> play in?
+what country does <LOCATION> come under?
+who do <PERSON> play for?
+what is there to do in mt <LOCATION>?
+where does the <LOCATION> canal run through?
+what <DURATION> did <PERSON> play baseball?
+what countries use <MISC> as national language?
+who all has <PERSON> played for?
+where does <PERSON> live?
+what are the natural resources in <LOCATION>?
+what language is <LOCATION> using?
+what to do in <LOCATION> bay?
+what did <PERSON> do?
+what is the rainforest in <LOCATION> called?
+where is <LOCATION> located?
+what is the state symbols of <LOCATION>?
+where did <PERSON> go to college?
+what battles did <LOCATION> win in <NUMBER>?
+which airport is closest to the city of <LOCATION>?
+what part of the world is <LOCATION> in?
+what movies did <PERSON> play in?
+who to vote for in <LOCATION> <DATE>?
+where is <LOCATION> at?
+who is the <ORGANIZATION> quarterback <DATE>?
+who is the <DATE> leader of <LOCATION> and what is their title?
+when did <ORGANIZATION> originate?
+who created <ORGANIZATION> windows?
+what is a king <PERSON> dog?
+what is <PERSON> best known for?
+when was <PERSON> elected president?
+who nominated <PERSON>?
+who was the voice of <MISC> vader in episode iii?
+what <DURATION> did <PERSON> play for the clippers?
+where the <MISC> language come from?
+what is the government of <LOCATION>?
+what movie does <PERSON> play in?
+who is the head coach of the <ORGANIZATION>?
+where does the <LOCATION> flow?
+what movies does <PERSON> star in?
+what is the political system of <LOCATION>?
+where is <LOCATION>?
+where is the battle of <LOCATION> located?
+what currency does <LOCATION> have?
+who plays <PERSON> in coronation street?
+what all did <PERSON> own?
+what form of government does <LOCATION> have?
+what language does people speak in <LOCATION>?
+who married <PERSON>?
+what jersey will the <ORGANIZATION> wear in the super bowl?
+who controls <LOCATION>?
+when did <ORGANIZATION> win the world series?
+what to do and see in <LOCATION>?
+what is the currency in the <LOCATION> <DATE>?
+what is happening in <LOCATION> <DATE>?
+what movies did <PERSON> do?
+who plays <PERSON> in the royal family?
+who helped <LOCATION> in <NUMBER>?
+what race are <MISC>?
+where <PERSON> go to school?
+who plays <PERSON> on bold and the beautiful?
+where was the earthquake in <LOCATION>?
+what timezone is <PERSON> nv?
+who was <PERSON> influenced by?
+what did <PERSON> do?
+what is <LOCATION> spanish?
+what continent does the <LOCATION> belong to?
+where is <LOCATION> mall?
+what state did <PERSON> win?
+where did <PERSON> go to high school?
+what planet did princess <PERSON> call home?
+where did <MISC> numbers originate from?
+what kind of money do you use in <LOCATION>?
+where is <PERSON> from where was he born?
+what <DURATION> did <PERSON> won the dunk contest?
+what did <PERSON> play in journey?
+where to stay in south rim grand canyon?
+what beach did the <MISC> assault?
+what discovery did sir <PERSON> make about force?
+what currency can you use in <LOCATION>?
+where does roman <PERSON> live?
+who is <PERSON> married to?
+where to travel in <LOCATION> in <DATE>?
+where did <PERSON> live before he died?
+what did <PERSON> say on the moon?
+who played <PERSON>?
+who does <PERSON> have kids with?
+who is the <DATE> leader of <LOCATION> <DATE>?
+what books did <PERSON> wrote?
+what did <MISC> live in?
+what part of <LOCATION> did most immigrants come from?
+what hotel should i stay in <LOCATION>?
+what events led to <PERSON>'s downfall?
+in which state did the <LOCATION> trail begin?
+where is <PERSON>?
+who created <ORGANIZATION>?
+what to do in <LOCATION> for <DURATION>?
+what currency does <LOCATION> use <DATE>?
+what influenced <PERSON>'s work?
+what is <LOCATION> state's zip code?
+who is <MISC> jolie husband name?
+what <PERSON> baby girls name?
+what is the <DATE> form of government in <LOCATION>?
+which <ORGANIZATION> stores are open?
+what were <PERSON>'s goals?
+who did <PERSON> travel with?
+what does <MISC> sound like?
+where does <PERSON> live?
+who are the judges on the <ORGANIZATION>?
+what to do in <LOCATION> <DATE>?
+what club did <PERSON> play for before man city?
+who plays <PERSON> in lords of dogtown?
+what system of government is used in the <LOCATION>?
+what did the <PERSON> family control?
+what is <PERSON>'s daughters name?
+when did the colts last win the superbowl?
+what college did <PERSON> play basketball for?
+what songs has <PERSON> written?
+what countries are located in the <LOCATION>?
+who was <PERSON> and what did he do?
+what are the best hotels to stay in <LOCATION>?
+who was <PERSON>'s vice president when he died?
+where did <PERSON> live?
+what race did <PERSON> died in?
+what language <LOCATION> use?
+where is <PERSON> from?
+with which country does <LOCATION> border?
+what is there to do around <LOCATION>?
+what countries in the world speak <MISC>?
+who plays <PERSON> in skins uk?
+what countries use the <MISC> as official currency?
+what kind of money do the <LOCATION> use?
+which college did <PERSON> graduated?
+who is <PERSON>?
+who are <PERSON> children?
+who is golfer <PERSON> dating?
+what are the official languages in <LOCATION>?
+what club did <PERSON> play for?
+what highschool did <PERSON> graduated from?
+where does the <ORGANIZATION> play?
+what <DURATION> did <ORGANIZATION> win nba championships?
+what each fold of the <LOCATION> flag means?
+what do people from <LOCATION> speak?
+who played <PERSON> on lost?
+when will <LOCATION> <DATE>?
+who did king <PERSON> married?
+how old was <PERSON> when he was elected president?
+what political party did <PERSON> belong to?
+what countries are part of <ORGANIZATION>?
+what religion is <PERSON> of scots?
+who is <PERSON> married to?
+where is port st <LOCATION>?
+what teams does <PERSON> own?
+where was the battle of <LOCATION>?
+what did <PERSON> contribute to our understanding of cells?
+where is <PERSON> from?
+what countries are in the <LOCATION>?
+what freeview channel is <ORGANIZATION> <NUMBER>?
+when did the <ORGANIZATION> start playing baseball?
+what party was <PERSON> from?
+what part does <PERSON> play in family guy?
+what type of government does <LOCATION> have <DATE>?
+what did <PERSON> do?
+what type of aircraft does <LOCATION> use?
+what currency do <LOCATION> use?
+where is the <ORGANIZATION> state?
+where put thermometer in <LOCATION>?
+who did <PERSON> play on cheers?
+who played <LOCATION> in <NUMBER> dalmatians?
+what division did the <ORGANIZATION> play in?
+what <DURATION> did us invaded <LOCATION>?
+what is the local currency in the <LOCATION>?
+what is the capital city of <LOCATION> on a map?
+what is the name of currency used in <LOCATION>?
+what ethnicity are people from <LOCATION>?
+where did the <MISC> come from wiki?
+what movie did <PERSON> won his <ORDINAL> oscar?
+when was ancient <LOCATION> created?
+who played <PERSON>?
+what famous people are from <LOCATION>?
+what country did <PERSON> represent?
+what timezone is <LOCATION> in?
+what did <PERSON> propose as the mechanism of evolution?
+who ran against <PERSON> for president?
+what books did <PERSON> write?
+what are popular sports in <LOCATION>?
+what did <PERSON> act in?
+who is the publisher of <ORGANIZATION>?
+what products are made in the <LOCATION>?
+what do <MISC> people speak?
+what form of government does <LOCATION> have?
+who was the wife of king <PERSON>?
+what position did <PERSON> play?
+what happened at the <ORGANIZATION>?
+when did <PERSON> die?
+what is there to do in <LOCATION>?
+who played <PERSON>?
+who did <PERSON> play for?
+where does <MISC> language?
+who was <PERSON> and what did he develop?
+where is universal studios <LOCATION> theme park?
+where the <ORGANIZATION> were born?
+what sport is popular in <LOCATION>?
+what to do with kids in <LOCATION>?
+where does <PERSON> live <DATE>?
+what continent is <LOCATION> apart of?
+which books did <PERSON> the apostle write?
+who made the ancient <MISC> pyramids?
+which <LOCATION> country has the biggest population?
+where did the <ORGANIZATION> originate?
+who was the <ORGANIZATION>'s dad?
+what <NUMBER> countries are part of the <LOCATION>?
+who was king <PERSON>?
+who won <DATE>'s <ORGANIZATION> super bowl?
+who played <PERSON> in <DATE> <NUMBER>?
+what language do <MISC>?
+what did <PERSON> say that was so offensive?
+what happened to <LOCATION>?
+what language is spoken in <MISC>?
+what movies did <PERSON> play in?
+what does <PERSON> sing?
+what <DURATION> did <PERSON> get elected president?
+what to do in <LOCATION> ca with kids?
+what country did <PERSON> came from?
+what disease did <PERSON> have?
+what are the holidays of islam?
+who did <ORGANIZATION> sail for?
+where did <MISC> people come from?
+what represents <LOCATION>?
+what to see in downtown <LOCATION> nc?
+where did <PERSON> live?
+what sports do <MISC> like?
+when did <ORGANIZATION> win the cup?
+who does <PERSON> play for <DATE>?
+who <DATE> owns the <ORGANIZATION>?
+where was <PERSON> born and raised?
+who has <PERSON> played for?
+what is the currency in the <LOCATION> called?
+where is <LOCATION> mn?
+what did <PERSON> rule?
+what was <PERSON>'s education?
+what club team does <LOCATION> play for?
+which countries share borders with <LOCATION>?
+what is the official currency in <LOCATION>?
+what going on in <LOCATION> <DATE>?
+what state did <PERSON> represent at the constitutional convention?
+what type of money do <MISC> use?
+what county is <LOCATION> fl located in?
+what is <PERSON> in?
+what movies has <PERSON> played in?
+what is the <ORGANIZATION> of god?
+where did <PERSON> go to college?
+where does <PERSON> live <DATE>?
+what <PERSON>?
+what country did <PERSON> come from?
+what country do they speak <LOCATION>?
+who did <LOCATION> surrender to in <NUMBER>?
+where does <PERSON> live in star wars?
+what basketball team does <PERSON> play for?
+what is time zone in <LOCATION>?
+what is <PERSON> doing <DATE>?
+what are <NUMBER> countries in <LOCATION>?
+where did <PERSON> attend high school?
+what did doctor <PERSON> do?
+where is <LOCATION> located?
+what country is <LOCATION> in?
+who played princess <PERSON>'s mother in star wars?
+what type of voting system does the <LOCATION> have?
+where is the warmest weather in the <LOCATION> in <DATE>?
+where <PERSON> went to college?
+what did <PERSON> study at university?
+what did <PERSON> do?
+from which university did president <PERSON> receive his bachelor's degree?
+what <DURATION> did <ORGANIZATION> win their <ORDINAL> world series?
+when was the last time the <ORGANIZATION> won the superbowl?
+what films has <PERSON> narrated?
+where are the <ORGANIZATION> located?
+what is st <PERSON> patron saint of?
+where was <PERSON> born?
+where was <PERSON> born?
+what techniques did <PERSON> use in her paintings?
+who does <PERSON> play in seinfeld?
+what type of government does <LOCATION>?
+what political experience did <PERSON> have?
+where does <PERSON> live?
+where is downtown <LOCATION>?
+what did <PERSON> star in?
+what division is <ORGANIZATION> in?
+what technique did <PERSON> use in his paintings?
+where was <PERSON> from?
+what countries include western <LOCATION>?
+what timezone is <LOCATION> <DATE> in?
+who is the <DATE> president of <LOCATION> <DATE>?
+what is the legislature of <LOCATION> called?
+what did <PERSON> do as an abolitionist?
+in which province is <LOCATION>?
+what college did <PERSON> attend?
+who is <PERSON> marrying on <NUMBER> rock?
+where was the battle of <LOCATION> located?
+what country did <PERSON> sail for?
+when did mt <ORGANIZATION> <ORDINAL> erupt?
+where did the name <LOCATION> come from?
+what time zone is <LOCATION> ca?
+who was the governor of <LOCATION> in <DATE>?
+what was the cause of death for sage <PERSON>?
+where did queen <PERSON> live?
+who played <PERSON> in up?
+where did <PERSON> go to acting school?
+what language does the country <LOCATION> speak?
+who won the <MISC> xliv <DATE>?
+what events caused <PERSON> to become more of an internationalist?
+what do the colors on <LOCATION>'s flag represent?
+when does school start in <LOCATION> <DATE>?
+what <DURATION> did the <ORGANIZATION> win the championship?
+what did <PERSON>?
+what was <PERSON> known for?
+what language did the <ORGANIZATION> speak?
+who was <PERSON>'s husbands?
+who were queen <PERSON> <NUMBER> parents?
+what do you want from me <PERSON> lyrics meaning?
+what did <PERSON> do?
+who does <PERSON> play for?
+what currency is best to take to <LOCATION>?
+who's <PERSON>?
+what has been discovered on <LOCATION> so far?
+who is <PERSON>?
+what movies did <PERSON> star in?
+what language does the <LOCATION> speak?
+what kind of cancer killed <PERSON> have?
+what kind of drugs does <PERSON> do?
+who is <PERSON> dating?
+what county is <LOCATION> located in?
+what did <PERSON> died of?
+what country was the treaty of <LOCATION> written?
+what is st <PERSON>?
+who was <LOCATION> and what did he do?
+who shot j <PERSON>?
+what happened during <PERSON> presidency?
+where is the <ORGANIZATION> stadium located?
+where did sir <PERSON> live?
+what type of music is <PERSON>?
+where did the <MISC> language originate from?
+who does <PERSON> think her father is?
+what languages do people speak in <LOCATION>?
+who is president of <LOCATION>?
+who did <PERSON>'s voice?
+what was <PERSON>'s political party?
+what <DURATION> were the <ORGANIZATION> founded?
+where <PERSON> go to school?
+where is <ORGANIZATION> cars made?
+what magazine did <PERSON> work for?
+where are <ORGANIZATION> appliances made?
+where did <ORGANIZATION> live?
+what happened after <PERSON> died?
+what music did <PERSON> compose?
+who plays <PERSON> in <DATE>?
+what is the timezone in <LOCATION>?
+what time is <MISC> soccer?
+what county is <PERSON> ca located in?
+what did <PERSON> do?
+where does <PERSON> live <DATE>?
+who is the member of <LOCATION>?
+what form of government does <LOCATION> have?
+who is the leader of <LOCATION> <DATE>?
+what was <PERSON> education?
+what movies has <PERSON> been in?
+what other writers influenced <PERSON>?
+where <PERSON> was raised?
+what <NUMBER> countries is the <LOCATION> at war with?
+where did the <MISC> empire start?
+what currency does the <LOCATION>?
+what is <PERSON> name in the woman in black?
+what money do they use in <LOCATION>?
+where was battle of <LOCATION> located?
+where does <PERSON> live <DATE>?
+who plays <PERSON>'s voice family guy?
+what should i see in <LOCATION>?
+what currency is used in <LOCATION> <DATE>?
+what language do <MISC> people speak?
+where did <PERSON> go to high school?
+what gauge strings <PERSON>?
+what was <PERSON> shot with?
+what did <PERSON> play in?
+who plays <PERSON> in <TIME>?
+what <ORGANIZATION> is worth money?
+what book did <PERSON> wrote?
+what airport is close to <LOCATION>?
+who plays <PERSON>?
+when did the <MISC> fascists came to power?
+who won <MISC> <DATE> season <NUMBER>?
+what to see in <LOCATION> in <DURATION>?
+where do the <ORGANIZATION> play?
+where did <PERSON> die?
+when did <PERSON> become famous?
+what is the language used in <LOCATION>?
+what was <PERSON> famous for?
+what are the traditions in <LOCATION>?
+what is the official language of <LOCATION> called?
+where did <PERSON> go to elementary school?
+where is the gulf of <LOCATION>?
+what was the name of <PERSON> jr parents?
+what money does <LOCATION> use?
+who was president when <PERSON> was vice president?
+what <DURATION> <PERSON> retired?
+what kind of government does <LOCATION> have <DATE>?
+what did <PERSON> say about women?
+who plays young <PERSON> in supernatural?
+who killed <PERSON> film?
+where is <PERSON> from originally?
+what region is <LOCATION>?
+where was the <LOCATION> war located?
+what do people go to <LOCATION> for?
+who is the elected governor of <LOCATION>?
+what language <LOCATION> speak?
+what <DURATION> did <PERSON> on the moon?
+what currency to take to side <LOCATION>?
+who founded the new <ORGANIZATION>?
+what were the causes of the <MISC> revolution in <DATE>?
+what team did <PERSON> play football for?
+what does <PERSON> do?
+where does the <LOCATION> flow into?
+where is the <MISC> located?
+when does the <MISC> occur?
+what <DURATION> the <ORGANIZATION> won the super bowl?
+what art movement was <PERSON> apart of?
+where does <MISC> language come from?
+what countries are in the <MISC> region?
+what nation did <PERSON> lead?
+what time is in <LOCATION> heathrow?
+when were women allowed to go to the <MISC>?
+what continent does the <LOCATION> flow through?
+what is a city in <LOCATION>?
+who played <PERSON>?
+what secondary school did <PERSON> go to?
+who was <PERSON> <ORDINAL> wife?
+where are you from in <MISC>?
+what did captain <PERSON> of?
+where does the <MISC> church originated from?
+what city did <PERSON> grew up in?
+what continent is <LOCATION> located in?
+who was <PERSON>'s girlfriend?
+what party was <PERSON> in politics?
+what <NUMBER> teams did <PERSON> play for?
+who was <PERSON>?
+where are <ORGANIZATION> brakes from?
+what did <PERSON> do at the vmas <DATE>?
+who did <MISC> descend from?
+what to see and do in <LOCATION>?
+what is the zip code for <LOCATION> tn?
+where's <PERSON>?
+what dialect do most <MISC> speak?
+who is the president of <LOCATION> in <DATE>?
+who does <PERSON> play in over the hedge?
+where is the <ORGANIZATION>?
+where is the country of <LOCATION>?
+who <PERSON> been married to?
+which country is <LOCATION> located?
+who is president of <LOCATION> <DATE>?
+what country did <PERSON> come from?
+what instrument did <PERSON> like to play?
+what is the currency in <LOCATION> in <DATE>?
+what types of government does <LOCATION> have?
+where is the <ORGANIZATION> company?
+what does <PERSON> own?
+what organism did <PERSON> use?
+what are the <NUMBER> houses in <ORGANIZATION>?
+what team does <PERSON> play <NUMBER>?
+what is the major language spoken in <LOCATION>?
+what did <PERSON> do for a living?
+what <MISC> language called?
+what planet was <PERSON> raised on?
+who did <ORGANIZATION> inspired?
+who does <PERSON> play for?
+what is the government structure of <LOCATION>?
+who was queen <PERSON> the <ORDINAL>'s mother?
+who is the leader of the <LOCATION> <DATE>?
+where did the <MISC> church start?
+who does <PERSON> look up to?
+where did <PERSON> go to high school?
+who played <PERSON>?
+what <DURATION> did <ORGANIZATION> win the superbowl?
+what is the name of the money used in <LOCATION>?
+what did <PERSON> do for a living?
+when did <PERSON> won the gold medal?
+what did <PERSON> died of?
+what type of political system does <LOCATION> have?
+when does ramadan <DATE> <LOCATION>?
+who will play <PERSON> in city of bones?
+what books did <PERSON> wrote?
+what <DURATION> did <PERSON> go to college?
+where is <LOCATION>?
+who are the <NUMBER> current senators of <LOCATION>?
+when did the <ORGANIZATION> win the pennant?
+who did <PERSON> play in <TIME>?
+what <NUMBER> countries does <LOCATION> border?
+who played <PERSON> on buffy the vampire slayer?
+what teams are in the <MISC>?
+what books did <PERSON> wrote?
+where does <PERSON> play <DATE>?
+who owns <ORGANIZATION> corporation <DATE>?
+what are the name of <PERSON> sons?
+what was the cause of death of <PERSON>?
+what is the rainforest in <LOCATION> called?
+what school did sir <PERSON> go to?
+what was <PERSON>'s contributions to science?
+how many major dialects are there in <LOCATION>?
+in which country is <LOCATION> found?
+what form of government does <LOCATION> use?
+what age do <MISC> people go to university?
+what language do <MISC> speak?
+who is <PERSON>?
+what did <LOCATION> do?
+who played <PERSON> in grease?
+who played <PERSON> on star trek the next generation?
+when did <PERSON> live?
+where did <PERSON> grow up?
+what school does <PERSON> go to?
+where is <PERSON> <DATE>?
+where was the battle of <LOCATION> ww1?
+what <DURATION> did <PERSON> go to high school?
+where is <LOCATION>?
+where did <PERSON> go to school?
+what type of government is the <LOCATION> government?
+what is <PERSON>'s <NUMBER> names?
+what was sir <PERSON> famous for?
+who is the <ORGANIZATION> coach?
+what college did <PERSON> go to?
+what team does <PERSON> play for <DATE>?
+where did sir <PERSON> explore?
+what <DURATION> did the <ORGANIZATION> win the world series?
+when does school start in <LOCATION>?
+where did <PERSON> and his wife live?
+what are the basic beliefs of <MISC> religion?
+what is modern <MISC> language?
+where does <PERSON> live?
+in what state was the <ORGANIZATION> established?
+where did the battle of the <LOCATION> start?
+what do <PERSON> do as a president?
+what are the names of <PERSON> books in order?
+what currency should i bring to <LOCATION>?
+what <DURATION> did the <ORGANIZATION> play in the world series?
+what does the <MISC> empire consist of?
+what did <PERSON> do?
+what did <PERSON> contribute to science?
+what school did <PERSON> establish?
+what is the economy of <LOCATION>?
+who is <PERSON> and why is she famous?
+where is port <LOCATION> located?
+what time zone is it in <LOCATION>?
+who is <PERSON>'s son?
+who helped form the <ORGANIZATION>?
+who did <PERSON> play in shrek?
+what songs did <PERSON>?
+when did the <ORGANIZATION> win championship?
+what does <LOCATION> export and import the most?
+what episode does <PERSON> come in?
+what was <PERSON> famous for?
+who did <PERSON> fight for?
+where does <LOCATION> start?
+where was <PERSON> born and raised?
+what is <LOCATION> known for?
+where is <LOCATION>?
+what is <PERSON>'s hometown?
+what is <LOCATION> zip code?
+what <DURATION> did <ORGANIZATION> win championships?
+what characters does <PERSON> play in family guy?
+what airport fly into <LOCATION>?
+what <DURATION> did <PERSON> play for the mavericks?
+where is <MISC> used?
+what book did <PERSON> write on evolution?
+what are all songs by <PERSON>?
+what instruments does <PERSON> play?
+who was <PERSON> married to?
+where were the <MISC> located?
+where does don king live?
+when was <PERSON> <ORDINAL> superbowl win?
+who did <PERSON> married?
+what form of government does <LOCATION>?
+who played <PERSON> on <DURATION> of our lives?
+what movies does <PERSON> star in?
+who was <PERSON> <ORDINAL> girlfriend?
+where to stay in <LOCATION> ca?
+what team does <PERSON> play for <DATE>?
+where did <PERSON> grow up?
+who is the <DATE> president of <LOCATION> <DATE>?
+what money system does <LOCATION> use?
+who played <MISC> in phantom menace?
+what is the newspaper in <LOCATION>?
+where is <PERSON> from?
+who invented <ORGANIZATION>?
+what country surrounds <LOCATION>?
+when and where was <PERSON> buried?
+what type of tennis racket does <PERSON> use?
+where did captain <PERSON> grow up?
+where is <ORGANIZATION> headquarters located?
+who wore the <MISC> vader suit in revenge of the sith?
+what movies has <PERSON> in?
+where is <PERSON> from?
+what school did <PERSON> play for?
+who invented <PERSON> code?
+what happened to <PERSON> at the end of the war?
+what is the political system in <LOCATION>?
+who was vice president under <PERSON>?
+what does <PERSON> own <DATE>?
+where did <PERSON> go to high school?
+when did the <ORGANIZATION> win their <ORDINAL> championship?
+which <NUMBER> states touch <LOCATION>?
+what did <PERSON> die of?
+what did <PERSON> died from?
+what country did <PERSON> explored for?
+what <NUMBER> countries share a border with the <LOCATION>?
+what <DURATION> did <PERSON> came to the nba?
+where is the <PERSON>?
+where did <PERSON> go to college?
+what do <LOCATION> people eat for breakfast?
+what religion does <PERSON> follow?
+what is the president of <LOCATION>'s name?
+what language do <MISC> speak?
+what is the money called in <LOCATION>?
+where is the great pyramid of <LOCATION> situated?
+where is <PERSON> made?
+what money is used in the <LOCATION>?
+where did <MISC> rand live?
+when was the civil war in <LOCATION>?
+where are the headquarters of the <ORGANIZATION> found?
+what did <PERSON> became famous for in <DATE>?
+what influenced <PERSON> artwork?
+what state did <PERSON> governor?
+which countries border <LOCATION>?
+what movies does <PERSON> star in?
+where is <LOCATION> located?
+where <PERSON> was born?
+where the <MISC> came from?
+what place did <PERSON> died?
+when is <DATE> <MISC> cricket?
+what is the time zone in <LOCATION>?
+what kind of economy was the <LOCATION>?
+what county is <LOCATION> ca located in?
+who is <PERSON> married to?
+where is <ORGANIZATION> laptops made?
+what is the name of the <ORGANIZATION> quarterback?
+what job does <PERSON> have?
+what do <PERSON> do for a living?
+who was the founder of <LOCATION>?
+who was dr <PERSON>?
+who does <PERSON> play in <NUMBER>?
+what continent is <LOCATION> in?
+what is <PERSON>'s heritage?
+where is <MISC> <DATE> nv?
+what club does <LOCATION> play for <DATE>?
+what is the name of the sacred text of islam?
+where did <PERSON> go to high school?
+who stars in the movie <PERSON>?
+who won the <DATE> snooker masters?
+where did <PERSON> live?
+what killed <PERSON>?
+where to hang out in <LOCATION>?
+what are the best things to do in <LOCATION>?
+what currency do you use in <LOCATION>?
+who are the senators of <LOCATION> <DATE>?
+what influenced <PERSON>'s work?
+what state was <PERSON> elected from?
+who played young <PERSON>?
+what is the official language of the <LOCATION>?
+who won <DATE> <MISC>?
+what songs did <PERSON> sing?
+who played <MISC> vader in the original star wars movies?
+when do we change the clocks in <DATE> in <LOCATION>?
+what team did <PERSON> play for before man city?
+who did <PERSON> married?
+what team did <PERSON> play for?
+what are the different sports in the <LOCATION>?
+who won the presidential race in <LOCATION>?
+where did <PERSON> take place?
+what degree did <PERSON> get?
+what type of music did <PERSON> write?
+what books has <PERSON> written?
+when did the <ORGANIZATION> win their <ORDINAL> championship?
+who is <PERSON>?
+what is the national anthem of <LOCATION>?
+what college did <PERSON> attend?
+what films did <PERSON> star in?
+what are all the countries in <ORGANIZATION>?
+what does <PERSON> do for a living?
+what was <PERSON> job?
+what city are the <LOCATION> in?
+what political party was <PERSON> from?
+who did <PERSON> marry?
+who was the <ORDINAL> <MISC> master?
+what areas did <PERSON> discover?
+what does <LOCATION> people speak?
+what made <PERSON> famous?
+what state is <ORGANIZATION> located in?
+what is the state bird and flower of <LOCATION>?
+what is al in <MISC>?
+where was governor <PERSON> born?
+who are the judges of the <ORGANIZATION>?
+who is the president of <LOCATION> <DATE>?
+what <DURATION> have the <ORGANIZATION> won the super bowl?
+what money to take to <LOCATION>?
+what <DURATION> did the <ORGANIZATION> win their <ORDINAL> world series?
+who was <PERSON> teacher?
+where did <PERSON> attend college?
+where did <PERSON> died?
+what football teams did <PERSON> play for?
+where did <PERSON> attend college?
+what city is <ORGANIZATION> located?
+what language does people in <LOCATION> speak?
+where is <PERSON> from?
+what does <PERSON> compete in?
+what airport is closest to downtown <LOCATION>?
+what did <PERSON> died of?
+what to do around <LOCATION>?
+what country is <PERSON> from?
+who is playing <PERSON> in the hobbit movie?
+what else is there in <LOCATION> besides disney?
+when did <PERSON> get elected?
+what kind of currency do they use in <LOCATION>?
+who is the actor that plays rico in <LOCATION>?
+what time zone is <LOCATION>?
+what does <PERSON> do?
+where is <LOCATION> the country?
+who does <PERSON> play in eclipse?
+where can i register to vote in <LOCATION> il?
+where was <PERSON> buried?
+what countries did <PERSON> work in?
+what timezone is <LOCATION> in <DATE>?
+what team did <PERSON> play for in baseball?
+what did dr <PERSON> do?
+who invented the <ORGANIZATION>?
+what is <PERSON>?
+where was <PERSON> born?
+what films have <PERSON> starred in?
+what did <PERSON> believe in?
+who played <PERSON>?
+what religion is <PERSON> jr?
+what airport does southwest fly to in <LOCATION>?
+who started <ORGANIZATION>?
+in what timezone is <LOCATION>?
+where <MISC> people from?
+where did <PERSON> get his start?
+what <DURATION> did <ORGANIZATION> win the world series?
+where was <PERSON> born and raised?
+what currency do i take to <LOCATION>?
+who portrayed <PERSON> in raiders of the lost ark?
+what money is used in <LOCATION>?
+where is <MISC> cape?
+what is the <ORGANIZATION> holy book?
+who is <PERSON> married to in real life?
+what is <LOCATION>'s state flower?
+who have the <ORGANIZATION> signed?
+who was <PERSON> married to?
+which <PERSON> books are movies?
+where did <PERSON> die?
+where is <LOCATION> in a world map?
+what <DURATION> did <ORGANIZATION> win their <ORDINAL> championship?
+what does <PERSON> call her fans?
+what happened to <PERSON>?
+who plays <PERSON>?
+what sports are played in <LOCATION>?
+who is the president of <LOCATION> <DATE>?
+who does <LOCATION> belong to?
+who does <PERSON> play for <DATE>?
+what party was <PERSON> affiliated with?
+where do <MISC> people go to worship?
+where did <PERSON>?
+where did <LOCATION> troops fight in <NUMBER>?
+what god does <LOCATION> believe in?
+what college did <PERSON> play for?
+what gunfight is <PERSON> earp most famous for?
+what does the <LOCATION> state flag look like?
+what do <LOCATION> people speak?
+who is <PERSON>?
+what type of government does <LOCATION> <DATE> have?
+what do <MISC> people speak?
+what <DURATION> did <PERSON> become the president?
+what did lbj die of?
+what is the main language spoken in <LOCATION>?
+who was the <ORDINAL> wife of prophet <PERSON>?
+what does <PERSON> believe?
+on which river is <LOCATION>?
+who was <PERSON> answers?
+who is <PERSON>'s new husband?
+who did <PERSON> play for before celtics?
+who the voice of <PERSON>?
+what is the name of <PERSON>'s <ORDINAL> novel?
+who is the governor of <LOCATION> <DATE>?
+which <LOCATION> airport is closest to the city center?
+where is <ORGANIZATION> stadium?
+where are <ORGANIZATION> products manufactured?
+where does <PERSON> live?
+when were the <PERSON> kids born?
+where did pharaoh <PERSON> live?
+what <NUMBER> countries are in the <LOCATION>?
+what record label is <PERSON> signed to <DATE>?
+who does <PERSON> play for?
+where did the <MISC> live?
+what county is <ORGANIZATION> in?
+what airlines fly into <LOCATION>?
+what school did <PERSON> go to?
+what kind of biome is the <LOCATION>?
+where did <PERSON> come from?
+which continent is <LOCATION> located?
+what movies has <PERSON> starred in?
+what was the capital of ancient <LOCATION>?
+where is tomb of <PERSON>?
+who does the <LOCATION> export the most to?
+where is <ORGANIZATION> based?
+what school did <PERSON> go to?
+what do you speak in <LOCATION>?
+where is <PERSON> from?
+what has <PERSON> been in?
+what primary school did sir <PERSON> go to?
+what's the <MISC> currency?
+which <MISC> god goddess are you?
+what countries does <LOCATION> export wheat to?
+what kind of economy does <LOCATION> has?
+what is <LOCATION> time zone?
+who won the <MISC> in <DATE>?
+who plays <PERSON> in the <TIME> movies?
+who is the head coach of the <ORGANIZATION>?
+who is <PERSON> dating <DATE>?
+what is the <ORGANIZATION> mascot?
+where does <ORGANIZATION> play soccer?
+what time zone is ontario <LOCATION>?
+where is <LOCATION> golf masters?
+what government did <LOCATION> have?
+where does the <LOCATION> end?
+what all does <PERSON> own?
+what countries does <LOCATION> border?
+what university did <PERSON> graduate from?
+what drug did <PERSON> overdose on?
+what were <PERSON>'s theories?
+what the <MISC> liberal party stands for?
+what is <LOCATION>?
+what language do you speak in <LOCATION>?
+what does the <LOCATION> flag represent?
+who was <PERSON> married to?
+where did <PERSON> live?
+who's the <ORGANIZATION> head coach?
+where is <MISC> language spoken?
+who is married to <PERSON>?
+what political party was <PERSON> the leader of?
+who did <PERSON> sign with <DATE>?
+who does <PERSON> play in the hangover?
+who plays <PERSON> in family guy?
+what state did <PERSON> live in?
+what are <NUMBER> inventions <PERSON> is credited with creating?
+where did <PERSON> grow up?
+what is <ORGANIZATION> mascot?
+what famous book did <PERSON> wrote?
+what band does <PERSON> sing for?
+where did <PERSON> go to college?
+where did <PERSON> get his education?
+what country did <PERSON> lead?
+what is language in <LOCATION>?
+which island in <LOCATION>?
+who has won the most <MISC>?
+what time is <LOCATION> in?
+what time is in <LOCATION>?
+what landforms are found in <LOCATION>?
+when did hurricane <PERSON> hit ct?
+who did <PERSON> play in the wiz?
+what is <PERSON> race?
+what was <PERSON> known for?
+what drugs does <PERSON> do?
+what is the capital city of <MISC> empire?
+which countries speak <MISC>?
+what disease <PERSON>?
+where did <PERSON> go to college?
+what is the zip code for <PERSON> tn?
+what is <PERSON> party?
+what is the origin of the <MISC> language?
+when did <PERSON> join the patriots?
+what is <PERSON> famous for?
+who won the state of <LOCATION> in <DATE>?
+what is considered eastern <LOCATION>?
+where did <PERSON> went to school?
+what battles did <PERSON> participate in?
+who was the prime minister of <LOCATION> in <DATE>?
+what did <PERSON>?
+what kind of alcohol is <ORGANIZATION> silver?
+who are <PERSON>'s siblings?
+what team did <PERSON> play for?
+what inspired <PERSON>?
+where do ba fly to from <LOCATION> city airport?
+where does <PERSON> live?
+what is the predominant language in <LOCATION>?
+what are fun things to do in <LOCATION> wa?
+where does the <LOCATION> thunder practice?
+what is the language called in <LOCATION>?
+who was <PERSON>'s vice president?
+what college did <PERSON> go to?
+where does the <MISC> language come from?
+what nationality is <PERSON>?
+where did the <ORGANIZATION> move from?
+who played <ORGANIZATION> <DATE>?
+who were <PERSON>'s parents?
+who played <PERSON> best friend?
+what do do in <LOCATION>?
+what are some of the religions in <LOCATION>?
+what is the capital city of <LOCATION>?
+what language do they speak in <LOCATION>?
+what type of political system is headed by queen <PERSON>?
+what is the actual <DATE> local time <DATE> in <LOCATION>?
+what are some of the awards <PERSON> has won?
+what city did <PERSON> grow up in?
+where did <PERSON> go?
+where did <PERSON> live when he died?
+what is there to do in <LOCATION>?
+where is <ORGANIZATION> at?
+where was <PERSON> born and raised?
+what county is <LOCATION> tn in?
+where do the <ORGANIZATION> play basketball?
+who was the president of the <LOCATION> during <NUMBER>?
+who did <PERSON> really love?
+which states does the <LOCATION> flow through?
+what are the biggest cities in <LOCATION>?
+which <MISC> team won the champions league <ORDINAL>?
+which province in <LOCATION> is the most populated?
+what continent do the <LOCATION> belong to?
+what language do <MISC> people speak?
+which states touch <MISC> soil?
+what did <PERSON> died from?
+what are the <NUMBER> <ORGANIZATION> names?
+who has <PERSON> played for?
+when is the <MISC> cheltenham?
+where does <MISC> originate?
+what currency in <LOCATION> should i bring?
+who did <PERSON> married?
+what region of the world is <LOCATION> in?
+who is the <DATE> governor of <LOCATION> <DATE>?
+where do <MISC> live?
+what to do in <LOCATION> beach for <DATE> break?
+what instrument does <PERSON> play?
+who are <LOCATION>'s trading partners?
+what character did <PERSON> create?
+what disease did <PERSON> get?
+where did <PERSON> get fired?
+who did <PERSON> just marry?
+what happened to president <PERSON>?
+what time zone am i in <LOCATION>?
+who is <PERSON>'s <DATE> wife?
+what channel is <PERSON> talk show on?
+what drugs were in <LOCATION> when she died?
+who did <PERSON> play for?
+what brand of guitar does <PERSON> play?
+what do <MISC> people speak?
+what prep school did <PERSON> attend?
+in what town did <PERSON> and his family grow up?
+what is <PERSON> husband name?
+what city in <LOCATION> should i live in quiz?
+who is the <DATE> president of <LOCATION>?
+who speaks <PERSON> on family guy?
+who influenced <PERSON>?
+when was <PERSON>?
+what are the <ORGANIZATION> home colors?
+who played <PERSON> in to kill a mockingbird?
+what type of money does <LOCATION> use?
+what instrument does <PERSON> play?
+who is <PERSON> driving for <DATE>?
+who was <PERSON>'s wife?
+where did <PERSON> go to school?
+who is <PERSON> married too?
+where can you buy <ORGANIZATION> kindle?
+who is <MISC> jolie's husband?
+what kind of money do they use in <LOCATION>?
+what sports do people in <LOCATION> play?
+what wars did <PERSON> lead?
+what language do native <MISC> speak?
+where did <PERSON> live?
+what was king <PERSON> religion?
+what language do they in <LOCATION>?
+who plays <PERSON> in fringe?
+where is port <LOCATION> on the map?
+what countries are the <MISC>?
+what city has the largest population in <LOCATION>?
+who <PERSON>?
+in what <DURATION> did the <ORGANIZATION> win the world series?
+what state is <LOCATION> in?
+where to watch tv online for free in <LOCATION>?
+where did the <LOCATION> earthquake occur?
+what is the state motto of <LOCATION>?
+what is time zone in <LOCATION>?
+what type of poetry does <PERSON> write?
+where did <PERSON> die?
+who is the <DATE> president of <LOCATION> <DATE>?
+what would happen if the new <LOCATION> fault had an earthquake?
+where did the <MISC> live?
+what did <PERSON> major in?
+where did <PERSON> live?
+who did <PERSON> get traded to?
+what timezone is <LOCATION>?
+where is <PERSON> from?
+where was <PERSON> born?
+what do they speak <LOCATION>?
+who taught <PERSON> to sculpt?
+what wars have <LOCATION> been involved in?
+who plays <PERSON> on the l word?
+when did <PERSON> won x factor?
+what is the major language of <LOCATION>?
+who was the members of <PERSON>?
+who did <PERSON> get traded to?
+where did romans go?
+what does a <MISC> look like?
+who created the character of <PERSON>?
+what does <MISC> people speak?
+who all has <PERSON> dated?
+who are the main trading partners of <LOCATION>?
+what instruments did <PERSON> wrote concertos for?
+what book did <PERSON> wrote about the people in the dust bowl?
+what land did god promise <PERSON>?
+who is the voice of family guys <PERSON>?
+what to do in <LOCATION> with kids?
+what countries did queen <PERSON> i rule?
+what channel is the <ORGANIZATION> awards on?
+what kind of currency does <LOCATION> use?
+what type of government does the <LOCATION> have?
+where is <ORGANIZATION> from?
+what country was <PERSON> born?
+where do they grow rice in <LOCATION>?
+where <LOCATION> on the world map?
+what to see in <LOCATION> tx?
+what is my timezone in <LOCATION>?
+what is president <PERSON> known for?
+who did <PERSON>'s husband cheated on her with?
+who does <PERSON> play in despicable me?
+what <DURATION> did the <MISC> happen?
+where do the <ORGANIZATION> play?
+who inspired <PERSON>?
+what type of currency is used in <LOCATION>?
+what is <PERSON> famous for?
+what currency is used in <LOCATION> before <MISC>?
+who started up <ORGANIZATION>?
+what major landforms are located in <LOCATION>?
+who played <ORGANIZATION> finals <DATE>?
+what does the devil look like in young <PERSON>?
+what state was <PERSON> governor of?
+what is the most practiced religion in the <LOCATION>?
+where was my <ORGANIZATION> motorcycle made?
+what did <PERSON> discovered as a mathematician?
+what is st <PERSON>?
+what airport to fly into to get to <LOCATION>?
+who has <PERSON> married?
+what currency is used in <LOCATION>?
+what currency do they use in <LOCATION>?
+what are fun things to do in <LOCATION>?
+what did <PERSON> die from?
+how much does the average <MISC> pay in taxes over their lifetime?
+what do the symbols in the <LOCATION> flag represent?
+what <DURATION> did the <ORGANIZATION> win the world series?
+what war was <PERSON> president for?
+who is <PERSON> racing for?
+what to do in <LOCATION> in <DATE>?
+where are the <ORGANIZATION> from?
+what is the main religion in <LOCATION>?
+what language does <MISC> people speak?
+what date was <PERSON> elected president?
+who nominated <PERSON>?
+what contribution did <PERSON> make to dna?
+what did <PERSON> do before becoming president?
+which party was <PERSON>?
+who are the <NUMBER> <DATE> <LOCATION> senators?
+what did <PERSON> died from?
+what college did <PERSON> play for?
+what were <PERSON>'s <NUMBER> names?
+what did <PERSON> win gold for?
+what job does <PERSON> have?
+what did <PERSON> discover?
+what does <PERSON> like to eat?
+who owns the <ORGANIZATION> football team?
+where do the <MISC> live?
+what is the dollar called in <LOCATION>?
+what airport fly into for <LOCATION>?
+what has <PERSON> played in?
+who won <DATE> heisman trophy?
+who is the <ORGANIZATION> kicker?
+where did <PERSON> go to high school?
+what language do <LOCATION> use?
+who won governor race in <LOCATION>?
+what languages do people speak in <LOCATION>?
+what college did <PERSON> attend?
+what style of art did <PERSON> use?
+what did <PERSON> make with peanuts?
+who plays <PERSON> in jumanji?
+who was <PERSON> married too?
+what is the isthmus of <LOCATION>?
+who is the coach of the <ORGANIZATION>?
+what is the <LOCATION>'s capital?
+what is <LOCATION> state flower called?
+what books did <PERSON> read?
+who plays <PERSON>?
+what language do they speak <LOCATION>?
+what are the major religions in <LOCATION>?
+what is the <ORGANIZATION> mascot?
+where was <MISC> born?
+where is the main headquarters of the <ORGANIZATION>?
+what utc time zone is <LOCATION>?
+who played as <PERSON>?
+who played <PERSON>'s boyfriend on seinfeld?
+who did <PERSON> married?
+what language do they speak in <LOCATION> wikipedia?
+where to watch live opening ceremony in <LOCATION>?
+what times is it in <LOCATION>?
+where did the <ORGANIZATION> play?
+what did <PERSON> do?
+what country was <PERSON> born in?
+where is the <ORGANIZATION> located?
+what country was <PERSON> from?
+who plays <PERSON> on army wives?
+where did <LOCATION> happen?
+what language does <LOCATION> use?
+what kind of money does <LOCATION> use?
+who was the prime minister of <LOCATION> in <DATE>?
+what hemisphere <LOCATION>?
+what movies has <PERSON> been in?
+what show was <PERSON> in as a child?
+what was <PERSON> best known for?
+what kind of music did <PERSON> sing?
+what education does <PERSON> have?
+what movies has <PERSON> been in?
+where the queen of <LOCATION> lives?
+what did <PERSON> write?
+who was the real <PERSON>?
+where are <PERSON> helmets manufactured?
+what <MISC> in?
+what position does <PERSON> hold?
+who is country <MISC> married to?
+what movies does <MISC> act in?
+what famous book did <PERSON> wrote?
+where does the <MISC> trail run through?
+where is <LOCATION> located on a map?
+what <DURATION> did <PERSON> go to <DATE>?
+what <ORGANIZATION> stands for?
+what clubs has <PERSON> played for?
+where is <PERSON> shoes headquarters?
+who does the <LOCATION> trade with?
+what color are the <ORGANIZATION>?
+what country <ORGANIZATION> cars made?
+who plays <PERSON> on shameless?
+what is <PERSON>'s religion?
+what country is <LOCATION> next to?
+what <DURATION> did <ORGANIZATION> win the championship?
+what does <PERSON> do?
+what movies did <PERSON> play in?
+who is <PERSON>?
+when are the <MISC> men's finals?
+when was <PERSON> inaugurated?
+where did <PERSON> teach?
+what kind of education did <PERSON> have?
+what was the last time the <ORGANIZATION> had a winning season?
+what did <PERSON> believe in?
+what currency does <LOCATION> have?
+where did <PERSON> died?
+what religions are recognized in <LOCATION>?
+what airport is closest to <LOCATION>?
+where is <LOCATION> located?
+who played <PERSON> in the original superman?
+who is the head coach of the <ORGANIZATION>?
+where was <PERSON> raised?
+what does <PERSON> star in?
+what did <PERSON> do?
+where does <LOCATION> river start?
+what are the major sports played in <LOCATION>?
+what did <PERSON> do for a living?
+who does <PERSON> race for?
+what was the political system in <LOCATION>?
+who plays the voice of <PERSON> on family guy?
+who did <PERSON> have a baby with?
+what the currency in <LOCATION>?
+where does <PERSON> teach?
+when did <PERSON> win his <ORDINAL> title?
+where does <PERSON> live?
+what college <PERSON> go to?
+where is <LOCATION>?
+what country is <PERSON> from?
+when did <MISC> discovered the atom?
+what do they speak in <LOCATION>?
+what are major religions in the <LOCATION>?
+what things did <PERSON> invent?
+where is the sistine chapel by <PERSON>?
+who has played <PERSON> on general hospital?
+what is the zip code for <LOCATION> nj?
+what kind of language does <LOCATION> speak?
+where is <PERSON> from?
+what are fun things to do in <LOCATION>?
+who does <PERSON> play for?
+where did <PERSON> go to school?
+where is <PERSON> buried?
+what strings does <PERSON>?
+who plays <PERSON> in zoey <NUMBER>?
+when did <PERSON> leave usc?
+who is <PERSON> sister?
+where was f <PERSON> education?
+on what continent is <LOCATION> found?
+what is the primary language of <LOCATION>?
+who is married to <PERSON>?
+what role did <PERSON> play in endless love?
+where to go in <LOCATION>?
+what city was <PERSON> born in?
+what countries in the world speak <MISC>?
+what <NUMBER> states border the <LOCATION>?
+what to do in <LOCATION>?
+who is <PERSON> and what did he do?
+what is the dominant language of <LOCATION>?
+when does <MISC> part d start?
+what is the postcode for <LOCATION>?
+what type of government does the <LOCATION> have?
+what university did <PERSON> go to?
+where is <LOCATION>?
+what countries speak <MISC> as a <ORDINAL> language?
+where is <LOCATION> based out of?
+what team did <PERSON> retire with?
+what is state animal of <LOCATION>?
+where did <PERSON> study?
+what is there to see near the <MISC>?
+where does the <ORGANIZATION> get its authority?
+where does <PERSON> live?
+who was <PERSON> and why was he important?
+what language do <LOCATION> speak?
+where does <PERSON> play?
+what war did <PERSON> help win?
+where does <PERSON> live?
+what college did <PERSON> attend?
+where was <PERSON> born?
+who plays young <PERSON>?
+what company did <ORGANIZATION> used to be?
+who was king <PERSON>'s wife?
+what team did <PERSON> play for?
+what are the <PERSON>?
+where <MISC> people come from?
+where is <LOCATION> located?
+what is the official language in <LOCATION>?
+who does the voice of <PERSON> in knight rider?
+what teams are left in the <ORGANIZATION>?
+what art movement was <PERSON> part of?
+what type of business is <PERSON> in?
+what language do they speak in <MISC>?
+what are historical places in <LOCATION>?
+in what <DURATION> did <LOCATION> sail to the new world?
+what countries are included in the continent of <LOCATION>?
+who owns <ORGANIZATION>?
+what war was <PERSON> president during?
+when did <ORGANIZATION> win super bowl?
+what timezone is <LOCATION> in?
+which airport do ba fly to in <LOCATION>?
+what is there for kids to do in <LOCATION>?
+what country <PERSON> was born?
+where did <PERSON> live?
+what <PERSON> name her baby?
+what is the <ORGANIZATION> mascot?
+what is there fun to do in <LOCATION>?
+what movies <PERSON> is in?
+where did <PERSON> do his work?
+what countries did <PERSON> work?
+what songs does <PERSON> sing?
+what is <PERSON> famous for?
+what is the <DATE> leader of <LOCATION>?
+how much <PERSON> movies are there?
+what does <PERSON> own?
+what kind of money should i bring to <MISC>?
+who is the president of <LOCATION> in <DATE>?
+what city became the capital of the <MISC> empire?
+what time zone is <LOCATION> tn?
+where does <PERSON> live <DATE>?
+who started the <ORGANIZATION>?
+where did <PERSON> go to college?
+where in <LOCATION> are the smoky mountains?
+what kind of fish do you catch in <LOCATION>?
+where was emperor <PERSON> born?
+who did <PERSON> get shot by?
+what county is <LOCATION> in?
+who did president <PERSON> marry?
+where to live near <LOCATION> wa?
+what movies did <PERSON> play in?
+where to go in <LOCATION> for vacation?
+who does <PERSON> play in the movie <TIME>?
+what does <PERSON> do <DATE>?
+where was <PERSON> buried?
+where did <PERSON> live?
+what type of cancer did <PERSON> died from?
+where's the <LOCATION>?
+how long is queen <PERSON>'s reign?
+what did <PERSON> do to the children?
+where does the <LOCATION> end?
+what is the state flower of <LOCATION>?
+what school did <PERSON> attend?
+what does <PERSON> do for a living?
+what country is <PERSON> from?
+who was <PERSON> signed to?
+who did <PERSON> play for?
+what character did <PERSON> play in lord of the rings?
+who played princess <PERSON> in star wars movies?
+when did <PERSON> <ORDINAL> run for president?
+what did <PERSON> do before he took office?
+where was saint <PERSON> from?
+where does <PERSON> get her money?
+what round did <PERSON> win in?
+what job did <PERSON> have?
+what are countries in <LOCATION>?
+where is the <LOCATION> geographically located?
+what songs does <PERSON> sing?
+where did <PERSON> go to college?
+what was <PERSON>'s job?
+who was <MISC> in real life?
+what was the cause of death of <PERSON>?
+who played <PERSON>?
+what is the capital city of <LOCATION>?
+who won governor in <LOCATION> <DATE>?
+what is the main language spoken in <LOCATION>?
+what timezone is <LOCATION> in <DATE>?
+where do cruises leave from in <LOCATION>?
+what time zone is <LOCATION> in?
+where was the <MISC> located?
+what is <ORGANIZATION>'s mascot?
+where is <ORGANIZATION> base located?
+who is the owner of the <ORGANIZATION>?
+where did <PERSON> verrazano live?
+what was <PERSON> known for?
+what movies does <PERSON> play in?
+who has won the last <NUMBER> <ORGANIZATION> championships?
+who is the coach of the <ORGANIZATION> <DATE>?
+when are the <DATE> <MISC> held?
+where did <PERSON> live before he died?
+where do most earthquakes happen in <LOCATION>?
+when did <PERSON> start on ncis?
+what atom did j.j thomson discover?
+what country did the <MISC> live in?
+where was president <PERSON> born?
+where to fly in for <LOCATION>?
+who has <PERSON> played for?
+who are <PERSON>'s husbands?
+what are the major languages spoken in <LOCATION>?
+what time is it in <LOCATION>?
+what <DURATION> have the <ORGANIZATION> won the <MISC>?
+where did <PERSON> go to prep school?
+where did <PERSON> grow up?
+what currency should i take to <LOCATION>?
+which states share borders with <LOCATION>?
+what is a judge in the <ORGANIZATION> called?
+what did <PERSON> accomplish?
+what college did <PERSON> go to?
+who is <PERSON> dow?
+what time zone is <LOCATION> in <DATE>?
+what kind of language do <LOCATION> speak?
+where is the <LOCATION> zoo?
+what town was <PERSON> born in?
+what do <LOCATION> import and export?
+who did the voice of <PERSON> in knight rider?
+what challenges did <PERSON> have to face?
+who is <PERSON> brother?
+who was the <ORDINAL> prime minister of <LOCATION>?
+where does <PERSON> live <DATE>?
+what teams did <PERSON> play for?
+who played <PERSON> in the movie?
+where did <PERSON> live?
+what other countries share a border with <LOCATION>?
+who has the voice of <PERSON>?
+what <DURATION> did <PERSON> and how old was he?
+what party did <PERSON> belong to?
+who is the senator of the state of <LOCATION>?
+where to stay in <LOCATION>?
+who is <PERSON> in a relationship with?
+who is the voice actor for <PERSON>?
+what language do <MISC> people speak?
+what is the currency used in <LOCATION>?
+what was <PERSON> best known for?
+what money is used in <LOCATION>?
+what illness does <PERSON> have?
+who is the governor of <LOCATION> <DATE>?
+who was <PERSON>'s <ORDINAL> husband?
+who did <PERSON> retire with?
+what are the official languages of the <LOCATION>?
+what movie queen <PERSON> play in?
+what did <PERSON> discover?
+where was <PERSON> buried?
+where do most immigrants in the <LOCATION> come from <DATE>?
+what state <LOCATION> located?
+where did dr <PERSON> get his doctorate?
+who is the governor of <LOCATION> <DATE>?
+who was the president of <ORGANIZATION>?
+where do most of the people in <LOCATION> live?
+where was <PERSON> raised?
+what language does <MISC> use?
+where do people speak <MISC>?
+what money do they have in <LOCATION>?
+what is <PERSON>'s real name?
+what is the name of the capital of <LOCATION>?
+what is <LOCATION> money called?
+what did people in the bible say about <PERSON>?
+what lead to the <DATE> of the <MISC> empire?
+where are <ORGANIZATION> headquarters located?
+what was the <MISC> political system?
+what is <LOCATION> ga famous for?
+what government type is <LOCATION>?
+where is the <ORGANIZATION>?
+who plays <PERSON>?
+what inspired <PERSON> to become an artist?
+where is the best place to stay in <LOCATION>?
+when did <PERSON> free the slaves?
+what county is <LOCATION> in?
+what <DURATION> did giants win world series?
+what kind of government <LOCATION> have?
+who is the <ORGANIZATION> starting quarterback?
+where does the band <ORGANIZATION> live?
+when did <LOCATION> get its name?
+who is <PERSON>'s husband?
+who plays <PERSON>?
+what province is <LOCATION> located in?
+where did president <PERSON> go to college?
+what are the gods of islam?
+what was <PERSON> original purpose of his journey?
+what team did <PERSON> play for in <DATE>?
+what political system is in <LOCATION>?
+who played <PERSON> on all in the family?
+what guitar did <PERSON> play?
+who did <PERSON> from the bible marry?
+what did sir <PERSON> do?
+what is a famous person from <LOCATION>?
+what college did <PERSON> attend?
+what channel does <PERSON> come on?
+what money do they use in <LOCATION>?
+where did <PERSON> work?
+where does <PERSON> live?
+when did the <MISC> war start?
+who influenced <PERSON>?
+what all countries are in <LOCATION>?
+who was the leader of the <ORGANIZATION> in <DATE>?
+what country does <LOCATION> export to?
+what ship did sir <PERSON> travel on?
+what did <PERSON> play on?
+what does <ORGANIZATION> believe?
+where is <PERSON> from?
+which province is <LOCATION> in?
+what university did <PERSON> attend?
+when did <PERSON> win wimbledon?
+who is <PERSON> dating?
+where is the capital city of <MISC>?
+who is <PERSON>?
+what type of political system is <LOCATION>?
+what do people from <LOCATION> speak?
+what to do if you have <DURATION> in <LOCATION>?
+where was <PERSON> born?
+what timezone is <LOCATION> in?
+what is the <LOCATION> part of?
+where did <PERSON> live as a kid?
+what do <MISC> speak?
+what <DURATION> did <ORGANIZATION> go to superbowl?
+where does <PERSON> go to school?
+what did <PERSON> make?
+who played lt <PERSON>?
+what is <ORGANIZATION>?
+what time is the <MISC>?
+what colleges did <PERSON> attend?
+what schools did <PERSON> attend?
+where is the <LOCATION> located?
+what <DURATION> was <PERSON>'s rookie <DURATION>?
+who was <PERSON> married to?
+what is the <LOCATION> time zone?
+who has coached the <ORGANIZATION>?
+what teams did <PERSON> play for?
+what type of government does <LOCATION> have <DATE>?
+what other jobs did <PERSON> have?
+who was <PERSON> and what did he contribute to science?
+who plays <PERSON> in doctor who?
+what <DURATION> was the <ORDINAL> <PERSON> pageant?
+what kind of guitar does <PERSON> play?
+what college did <PERSON> attend?
+where to stay near <LOCATION>?
+what city uses <MISC>?
+where does the <LOCATION> begin?
+what county is <LOCATION> in?
+what zip code is <LOCATION> il?
+what is the political system in <LOCATION>?
+what did <PERSON> die from?
+who is the governor of <LOCATION> <DATE>?
+what city is mt <LOCATION> in?
+what is <PERSON> famous for?
+what continent is <LOCATION> located on?
+who created the ancient language in <LOCATION>?
+what <NUMBER> regions make up the <LOCATION>?
+what does <ORGANIZATION> own?
+where did the <ORGANIZATION> people come from?
+what language do most native <MISC> speak?
+what kind of political system does <LOCATION> have?
+where was <PERSON> born?
+who did <PERSON> play in eclipse?
+who owns <ORGANIZATION> <DATE>?
+where did <PERSON> go to school?
+who started <ORGANIZATION>?
+what are the <NUMBER> dialects of <MISC>?
+who was <PERSON> in the wiz?
+where is <LOCATION> located what state?
+what county is <LOCATION> in?
+what state in <LOCATION> in?
+what is the major language spoken in <LOCATION>?
+who wrote <PERSON>'s drunk on you?
+what time is it in <LOCATION> <DURATION> clock?
+what part of the atom did <LOCATION> discover?
+what state is <PERSON> senator for?
+what kinda music does <PERSON> sing?
+what will happen to <LOCATION> when it defaults?
+what <PERSON> do?
+what <PERSON> thinks about god?
+what language do <LOCATION> speak?
+where did sir <PERSON> die?
+what kind of money in <LOCATION>?
+what is the date <DATE> in <LOCATION>?
+where did <PERSON> get shot?
+what country does <MISC> come from?
+what is <LOCATION>'s capital city?
+who was <MISC> vader in episode <NUMBER>?
+when does <PERSON> air?
+what is the currency in the republic of <LOCATION>?
+what does <PERSON> have a degree in?
+who is the political leader of <LOCATION>?
+what country did <PERSON> verrazano represent?
+when was saint <PERSON> died?
+what countries does <LOCATION> share borders with?
+what city is the <ORGANIZATION> from?
+when is the last time the <ORGANIZATION> won a championship?
+where is the time zone in <LOCATION>?
+who created <ORGANIZATION> and when?
+what county is <LOCATION> fl in?
+what type of political system is <LOCATION>?
+what happened to <PERSON> and her baby daddy?
+what are the names of <ORGANIZATION> and sisters?
+what is the <LOCATION> theme song?
+what was the cause of death for <PERSON>?
+what is <PERSON>'s most famous for?
+what does <PERSON> do?
+what country was <PERSON> born?
+where did pres <PERSON> go to high school?
+what is the capital city of <LOCATION>?
+what money system does <LOCATION> use?
+when did <PERSON> run for president?
+who is <PERSON> s father?
+when is the <ORGANIZATION> final <DATE>?
+where does president <PERSON> live?
+where does <PERSON> fight?
+where did <ORGANIZATION> tornado hit?
+what did <PERSON> die of?
+what movies has <PERSON> starred in?
+what highschool did <PERSON> go to?
+who is the <DATE> <MISC> winner?
+what to do in <LOCATION> tx <DATE>?
+who played <PERSON> in <DATE>?
+what contribution did <PERSON> made to science in <DATE>?
+what countries make up <LOCATION> and what are their capitals?
+what did <PERSON> invented?
+what movies has <MISC> jolie in?
+what radio station does <ORGANIZATION> football come on?
+who owns the <ORGANIZATION>?
+where was <PERSON> originally from?
+what country <PERSON> from?
+who was <PERSON>?
+what movies did <PERSON> play in?
+what is the <MISC> language?
+what is father name of <PERSON>?
+where is <PERSON> gymnast from?
+what kind of money does the ivory coast use?
+what writers influenced <PERSON>?
+where is <PERSON> from sui?
+what money should i bring to <MISC>?
+what is <PERSON>'s style of music?
+where did the <ORGANIZATION>?
+what movies did <PERSON> star in?
+what did <PERSON> do when he was president?
+what do <MISC> speak?
+what language did the <MISC>?
+who plays <PERSON>?
+what did <PERSON> believe?
+when did babe <PERSON> playing baseball in the mlb?
+what type of monarchy did <LOCATION> have during the glorious revolution?
+who plays <PERSON> on the wire?
+what is the zip code for <LOCATION>?
+who was the <ORDINAL> actor to play <PERSON>?
+where did the founder of <ORGANIZATION> go to college?
+what currency is used in <LOCATION> <DATE>?
+what made <PERSON> famous?
+what school did <PERSON> attend?
+who did <PERSON> marry?
+what is the <ORDINAL> official language of <LOCATION>?
+who coached the <ORGANIZATION> in <DATE>?
+what country did <PERSON> live in?
+what is the language called in <LOCATION>?
+what does the name <LOCATION> stand for?
+who does <PERSON> play for <DATE>?
+who was the president of the <LOCATION> in <DATE>?
+what team did <PERSON> play for?
+what to do <DATE> in <LOCATION>?
+who was <PERSON> accomplice?
+how old is the <DATE> president of <LOCATION>?
+what show does <PERSON> play on?
+what language do the people speak in <LOCATION>?
+what college is in <LOCATION>?
+what countries does the <LOCATION> river flow through?
+what is the official state flower of <LOCATION>?
+what religion are most people in <LOCATION>?
+where is pyramids located in <LOCATION>?
+what games did <ORGANIZATION> make?
+who does <PERSON> play for <DATE>?
+what type of laws did <PERSON> demand?
+what team did <PERSON> play for <ORDINAL>?
+what kind of government does <LOCATION> have?
+what language do the speak in <LOCATION>?
+where to stay in <LOCATION> neighborhood?
+what style of art did <PERSON> produce?
+what is <MISC> pie about song?
+what are <LOCATION> people considered?
+what movies did <MISC> jolie star in?
+where was ancient <LOCATION> located?
+what type of paintings did <PERSON> do?
+what did <PERSON> say about electrons?
+what movies did <PERSON> wrote the music for?
+what does <MISC> people speak?
+what were <PERSON> achievements?
+who plays <PERSON> on <NUMBER> rock?
+when do they have the <MISC>?
+what is zip code for <LOCATION>?
+where is <PERSON>'s farm located?
+who is the <DATE> coach of the <ORGANIZATION>?
+what was the name of <PERSON>'s children?
+what organization did dr. <PERSON> found?
+who owns the <ORGANIZATION> football team?
+what currency does <LOCATION> accept?
+who played <PERSON> in private parts?
+when countries joined the <ORGANIZATION>?
+what inventions did <PERSON> made?
+which team does <LOCATION> play for?
+where is <PERSON> from?
+what is the currency of <LOCATION> called?
+what school did <PERSON> go to before auburn?
+where did <PERSON> grew up?
+when did <ORGANIZATION> win the superbowl?
+when did <PERSON> run for president?
+what's <LOCATION>'s currency?
+what currency does <LOCATION> use?
+who does <PERSON> play for <DATE>?
+who are senators from <LOCATION>?
+what is the zip code for <LOCATION> ga?
+who did <PERSON> play for in <DATE>?
+when was the last shark attack in <LOCATION>?
+what type of government did <LOCATION> have?
+where is <PERSON> from ethnically?
+where was the <MISC> civilization located?
+what did <PERSON> die from?
+who are the <DATE> senators from <LOCATION>?
+what do do in <LOCATION> tn?
+what inventions did <PERSON> made?
+who plays <PERSON> wife?
+what team does <PERSON> play for?
+what countries do <LOCATION> export to?
+what type of government does the former <LOCATION> have?
+what illness did <PERSON> died of?
+what car models does <ORGANIZATION> make?
+which legend of <PERSON> game is the <ORDINAL>?
+what nationality is <PERSON>?
+what did <PERSON> die from?
+what <DURATION> have the <ORGANIZATION> won the super bowl?
+what did <PERSON> die from?
+what countries does <LOCATION> own?
+what government does <LOCATION> have?
+who played <PERSON> in the film wizard of oz?
+who was the owner of <ORGANIZATION>?
+where did <PERSON> die?
+what countries are on the <LOCATION> sea?
+what languages do they speak in <LOCATION>?
+who plays <PERSON>?
+when were the <ORGANIZATION> founded?
+who is <PERSON>'s parents?
+what is the capital city of <LOCATION>?
+who succeeded <PERSON> as president?
+where does <PERSON> live?
+what <PERSON> famous for?
+what is the zip code for <LOCATION>?
+what money currency does <LOCATION> use?
+where did <LOCATION> tale take place?
+who voices <PERSON> in <PERSON>?
+what kind of money do they use in <LOCATION>?
+what does <ORGANIZATION> stand for college?
+who plays <PERSON>?
+what was <PERSON> searching for?
+who plays <PERSON> on the looney tunes show?
+what to do in <LOCATION> <DATE> with kids?
+what kind of money does <LOCATION>?
+who did <PERSON> sail for?
+what cities are included in <LOCATION>?
+where did <PERSON> live?
+what time is the <MISC> starting?
+what are the places to see in <LOCATION>?
+where is <PERSON> from?
+what characters does <PERSON> voice?
+where the <MISC> language come from?
+what language do <MISC> people talk?
+what does <LOCATION> border?
+when does the <MISC> league start?
+what was <PERSON> famous for?
+where did <PERSON> went to school?
+where do <MISC> people come from?
+where is the time zone in <LOCATION>?
+what albums did <PERSON> play on?
+what influenced <PERSON>'s poetry?
+what did <PERSON> do in his life?
+what kind of legal system does <LOCATION> have?
+where did <PERSON> live?
+what role did <PERSON> play in the abolition movement?
+where people speak <MISC>?
+what children's books did <PERSON> wrote?
+what state <PERSON> was born?
+what is the zip code for <LOCATION> in?
+who is <MISC> and what did he discover?
+who plays <PERSON> on <TIME>?
+where did <LOCATION> start?
+who does <PERSON> play for in <DATE>?
+where did <PERSON> live before he died?
+what is the currency of <LOCATION> in <DATE>?
+what to do in <LOCATION>?
+who does <PERSON> play in fast and furious?
+who was the vice president during <PERSON>?
+where did <PERSON> go to school?
+where <ORGANIZATION> cars are built?
+what kind of money do <MISC> use?
+where does the name <LOCATION> come from?
+what currency do the <LOCATION> use?
+what kind of money does <LOCATION> use?
+what currency do <LOCATION> have?
+what are <MISC> speaking countries and their capitals?
+what language does people from <LOCATION> speak?
+what did <PERSON> die of?
+what type of currency does <LOCATION> use?
+who plays <PERSON> in power rangers?
+what <DURATION> did <PERSON> won the slam dunk contest?
+what country did <PERSON> come from?
+what were <PERSON>'s <NUMBER> names?
+when was the <ORDINAL> pope of the <MISC> church?
+what did <PERSON> explore?
+what currency do i bring to <LOCATION>?
+where did <PERSON>?
+what kind of government does <LOCATION>?
+what are some native <MISC> holidays?
+where did <PERSON>?
+where is <LOCATION> located what continent?
+what form of government is the <LOCATION>?
+who plays <PERSON> on family guy?
+what are the <NUMBER> major religions in <LOCATION>?
+what kind of government do the <MISC> have?
+what happened to sir <PERSON>?
+what food is from <LOCATION>?
+who plays <PERSON>'s voice?
+who did <PERSON> beat <TIME>?
+what are the mountains in <LOCATION> called?
+which <MISC> are having babies?
+what is <LOCATION> made up of?
+what team does <PERSON> play for?
+where <MISC> is spoken in the world?
+where is <PERSON> from?
+what office does <PERSON> hold?
+what type of government does <LOCATION> have <DATE>?
+what country is the <LOCATION> located in?
+who is <PERSON> in the bible?
+who played <PERSON>'s dad?
+what is <PERSON>'s legacy?
+where to stay in <LOCATION> tripadvisor?
+which airport is closest to <LOCATION> port?
+who is <PERSON> mother?
+where do cherry trees grow in the <LOCATION>?
+who plays <PERSON> in terminator salvation?
+what <DURATION> <PERSON> won the super bowl?
+what country was <PERSON> killed in?
+where did <PERSON> go on his voyages?
+who won the governor election in <LOCATION>?
+where did <PERSON> and seal get married?
+what kind of experiments did <PERSON> do?
+who created the <ORGANIZATION>?
+what timezone is <LOCATION> in?
+what happened to rev. <PERSON>?
+who plays the voice of <PERSON> in family guy?
+what can you visit in <LOCATION>?
+what form of government does <LOCATION>?
+where is located <ORGANIZATION>?
+who speaks <MISC> language?
+who played the parents in <MISC> <DURATION> off?
+what dialects are spoken in the <LOCATION>?
+what should i visit in <LOCATION>?
+where <PERSON> was born?
+when was the last time <LOCATION> invaded another country?
+what did the <MISC> empire look like?
+what team does <PERSON> play for?
+who is <PERSON> ex wife?
+where is <PERSON> born?
+what island is <PERSON> from?
+what is <PERSON>'s powers?
+what did <PERSON> write?
+what city is the state capital of <LOCATION>?
+what does <PERSON> do?
+what was the <PERSON> administration known for?
+where did <PERSON> live?
+what <DURATION> did <PERSON> get drafted?
+what airport do you fly into <LOCATION>?
+who does <PERSON> play for?
+what sea does the <LOCATION> empty into?
+what are the main imports and exports of <LOCATION>?
+what movies have <PERSON> been in?
+what country is beside <LOCATION>?
+what type of government <LOCATION> have?
+what is there to do in <LOCATION> vt?
+who is the leader of <LOCATION> <DATE>?
+when did <PERSON> started playing basketball in the nba?
+what movies were <PERSON>?
+in which city was president <PERSON> killed?
+where is <PERSON> from?
+what is <PERSON>'s dad's name?
+how much <ORGANIZATION> teams are there?
+what office does <PERSON> hold?
+where do the <ORGANIZATION> play?
+what sport do the <ORGANIZATION> play?
+who was <PERSON> married too?
+where is <PERSON> buried <DATE>?
+where is <MISC> located?
+what is the best neighborhood to live in <LOCATION>?
+who plays <PERSON> in spiderman <NUMBER>?
+what languages do <MISC> people speak?
+what type of money does <LOCATION> have?
+who started <PERSON>?
+what types of government does <LOCATION> have?
+where is <LOCATION>?
+who are the players on the <ORGANIZATION>?
+what <DATE> <DURATION> countries use <MISC> as their national language?
+in which continent is <LOCATION>?
+what to do in <LOCATION> <DATE>?
+where did <PERSON> live?
+who is <ORGANIZATION> and what is he famous for?
+what is the <MISC> called?
+what is the money currency in <LOCATION>?
+where is <LOCATION> located?
+what is <MISC> language?
+what is the national flag of <LOCATION>?
+when did <PERSON> start playing tennis?
+what sort of government does <LOCATION> have?
+what country does <LOCATION> trade with?
+what form of government does <LOCATION>?
+what are the official languages of <LOCATION>?
+where did <PERSON> live after the civil war?
+who was the voice of <PERSON>?
+which country did <PERSON> sailed for?
+what is the capital of <LOCATION>?
+what do <LOCATION> call their money?
+what happened after the invasion of <LOCATION>?
+who did <PERSON> play on general hospital?
+which party did <PERSON> belong to?
+who plays <PERSON> in lord of the rings?
+where is the best place to visit in the <LOCATION>?
+what is the currency of <LOCATION> called?
+what teams did <ORGANIZATION> play <NUMBER>?
+what currency does <LOCATION> accept?
+who was vice president under <PERSON>?
+what state is the <ORGANIZATION> in?
+where did <PERSON> die?
+where did <PERSON> attend college?
+who is <PERSON> playing for <DATE>?
+what color are the <ORGANIZATION> uniforms?
+when was <PERSON> elected president?
+where was emperor <PERSON> born?
+where was the <ORDINAL> <ORGANIZATION> located?
+where the <ORGANIZATION> lived?
+which country does <MISC> language come from?
+what did the <LOCATION> renaissance created?
+what movies <PERSON> in?
+where did <PERSON> died?
+where is <LOCATION>?
+what language did ancient <MISC> write in?
+what team does <PERSON> <DATE> play for?
+what other movies is <PERSON> in?
+what to do downtown <LOCATION>?
+what kind of cancer did <PERSON> died from?
+what religion did <PERSON> follow?
+who was <PERSON> played by?
+who was the secretary of state when <PERSON> was president?
+who does the voice of <LOCATION> in lion king?
+where did <PERSON> live before he became president?
+what <DURATION> was <PERSON> drafted?
+what party is <ORGANIZATION> affiliated with?
+where does t <PERSON> live?
+when did the <ORGANIZATION> win the pennant?
+where was saint <PERSON> from?
+what is the capital city of <LOCATION> <DATE>?
+what countries does <LOCATION> export to?
+where is <MISC> the official language?
+what continent is <LOCATION> located in?
+what events does <PERSON> compete in?
+what happened to <PERSON> after he was released from jail?
+where did <PERSON> live?
+where did hurricane <PERSON>?
+what region is <LOCATION> located in?
+who was president when the <ORGANIZATION> was established?
+where to visit in <LOCATION>?
+who are all the <MISC> winners and runner ups?
+what sports do they have in <LOCATION>?
+what was <PERSON> known for?
+what band did <PERSON> play in?
+what did <PERSON> od on?
+who did <LOCATION> fight against in <NUMBER>?
+what season did <PERSON> leave <NUMBER>?
+who wrote <NUMBER> <ORGANIZATION> <NUMBER>?
+which <NUMBER> countries share a land border with <LOCATION>?
+what country was <PERSON> from?
+where to go in <LOCATION> for vacation?
+what does the <MISC> star represent?
+what college did <PERSON> play basketball for?
+who plays <PERSON>?
+what did <PERSON> invent?
+where did chef <PERSON> go to school?
+who plays <PERSON>?
+what did <PERSON> wrote?
+where is fiat <PERSON> made?
+where was <PERSON> born?
+what does <PERSON> play in?
+what team does <PERSON> play for <DATE>?
+what are some important events in ancient <LOCATION>?
+who was sworn into office when <PERSON> was assassinated?
+what date did the earthquake in <LOCATION> happen?
+when did <PERSON> join the ncis team?
+where are you if you're in <LOCATION>?
+where did <PERSON> work?
+where is <ORGANIZATION>?
+what countries are around <LOCATION>?
+what did <PERSON> won an oscar for?
+what <DURATION> did <PERSON> <ORDINAL> run for president?
+who is engaged to <PERSON>?
+what <ORGANIZATION> owns?
+who won governor of <LOCATION> <DATE>?
+where did the allied invasion of <LOCATION> take place?
+where does the <LOCATION> start?
+where did <PERSON> play high school football?
+where is pyramids of <LOCATION> located?
+when does <MISC> start trading?
+who plays <PERSON> in the muppets movie?
+what kind of government does <LOCATION> have <DATE>?
+what is <MISC> literature?
+what are the primary languages of <LOCATION>?
+what language do they speak in <LOCATION>?
+what <DURATION> were the <ORGANIZATION> established?
+what games do <MISC> people play?
+what city was <PERSON> born in?
+what time does independence center open on <DATE>?
+where did the <MISC> tribe live?
+what did <PERSON> die from?
+what to see near <LOCATION>?
+where did <PERSON> go to high school?
+what was <PERSON> known for?
+what country was <PERSON> born?
+when was <LOCATION> entered into the union?
+who is <PERSON> parents?
+when did <PERSON> write frankenstein what were the circumstances?
+what was <MISC> fought for?
+what is <PERSON>?
+what age can a woman retire in <LOCATION>?
+what team does <PERSON> play for <DATE>?
+who founded the <ORGANIZATION> in <DATE>?
+where is <LOCATION> ne?
+where does <LOCATION> end?
+what team is <PERSON> playing for in <DATE>?
+where is <MISC> spoken around the world?
+what is currency in <LOCATION>?
+what undergraduate school did <PERSON> attend?
+what <NUMBER> countries border <LOCATION>?
+when was the last time the <ORGANIZATION> won a superbowl?
+where did <PERSON> go to high school?
+where is <LOCATION> located?
+where is <PERSON> spending <DATE>?
+what other movies has <PERSON>?
+what is <PERSON>?
+what was <PERSON> augustus known for?
+when did <PERSON>'s dad die?
+which countries border the <MISC> sea?
+what to do in <LOCATION>?
+who is <PERSON> married too?
+who does <PERSON> represent?
+what were some inventions of <PERSON>?
+what college did <PERSON> . o go to?
+who plays <PERSON> in anger management?
+what type of strings does <PERSON> use?
+who did <PERSON> date before seal?
+what type of voting system does <LOCATION> have?
+where did president <PERSON> grew up?
+what did <PERSON> invented?
+what countries and seas border <LOCATION>?
+where the <LOCATION> located?
+where was <PERSON> a senator?
+what is the money currency in <LOCATION>?
+where was <PERSON> died?
+what percent of <LOCATION> is black?
+what <DURATION> did <PERSON> get drafted?
+what was <PERSON> famous for?
+who is number <NUMBER> on the <ORGANIZATION>?
+what does <ORGANIZATION> black wand look like?
+who is <PERSON> inventor of?
+where are the <MISC> refugees going?
+what city was <LOCATION> held in?
+who do <MISC> believe is god?
+what was <NUMBER> thing <PERSON> is famous for?
+what did <PERSON> play?
+where does the <LOCATION> import from?
+who started <ORGANIZATION>?
+who is the <DATE> president of <LOCATION> <DATE>?
+what was the name of the book that <PERSON> wrote?
+who might <PERSON> think would?
+who is <PERSON> descended from?
+what did <PERSON> do?
+what type of cancer did <PERSON> die from?
+what was <PERSON>'s job?
+what language does people in <LOCATION> speak?
+where is the <LOCATION> located?
+where did <PERSON> come from?
+who does queen <PERSON>?
+what teams did <PERSON> won rings with?
+what timezone is <LOCATION> in?
+what did <PERSON> writer?
+where is <LOCATION> nsw?
+who killed <PERSON>?
+where did <PERSON> study acting?
+what is d capital city of <LOCATION>?
+into what language family does <MISC> fall?
+who does <LOCATION> import from?
+who is <LOCATION>'s president <DATE>?
+what are the different dialects of <MISC>?
+what city was <PERSON> shot?
+who owns the <ORGANIZATION> owner?
+what is the name of the <LOCATION> state tree?
+what is the capital of <LOCATION> known for its bluegrass?
+what money do you use in <LOCATION>?
+where did apostle <PERSON> grow up?
+what was <PERSON> beliefs?
+which countries share land border with <LOCATION>?
+who did queen <PERSON>?
+where did <LOCATION> invade to get resources?
+who is the <ORGANIZATION> head coach?
+what type of money do you use in <LOCATION>?
+where in <LOCATION> does usher live?
+who are the <NUMBER> state senators of <LOCATION>?
+what type of government does <LOCATION> use?
+what language do people in <LOCATION> speak?
+who plays <PERSON> on buffy the vampire slayer?
+what kind of political system is <LOCATION>?
+who plays <PERSON> in buffy the vampire slayer?
+who voices <PERSON> in looney tunes?
+what did <PERSON> create in <DATE>?
+who voices <PERSON> in the clone wars?
+what did <PERSON> hate?
+who plays <PERSON> in lord of the rings?
+when is the last time <ORGANIZATION> won a championship?
+what is <PERSON> famous for?
+what is the holy book in <LOCATION>?
+where was dr <PERSON> jr born?
+where <MISC> revolution?
+who does <PERSON> play <NUMBER>?
+when is the diwali festival?
+what professional baseball team did <PERSON> play for?
+where is <PERSON> grave?
+what did <PERSON> do bad?
+where is <PERSON>?
+what time zone is <LOCATION> ca?
+where is <LOCATION>?
+what countries are included in the <LOCATION>?
+what is <PERSON> augustus known for?
+what form of government is <LOCATION>?
+what <DURATION> did the <ORGANIZATION> win their <ORDINAL> world series title?
+who is <PERSON> married to?
+what guitar does <PERSON> play?
+what is the speech i have a dream about <PERSON>?
+what is the biggest country in <LOCATION> by population?
+what team does <PERSON> play for <DATE> season?
+what happened to <PERSON>?
+what are the <MISC> nations?
+where did dr. <PERSON> go to school?
+what channel is game show network on <ORGANIZATION> cable?
+what is the <ORGANIZATION> responsible for?
+what party did <PERSON> belong to?
+what book did <PERSON> wrote?
+what are <PERSON>'s <NUMBER> names?
+where is art <PERSON> from?
+what films did <PERSON> star in?
+what time does <LOCATION> play football <DATE>?
+what are the major imports and exports of <LOCATION>?
+what other political offices has <PERSON> been in?
+what airport do you fly into for <LOCATION>?
+what to do in <LOCATION> ca?
+what college did <PERSON> go to?
+what inspired <PERSON> work?
+where is <LOCATION> located?
+what is wrong with <PERSON>?
+where to go in downtown <LOCATION> tn?
+what type of government does <LOCATION> use?
+what team <PERSON>?
+what is the timezone in <LOCATION> called?
+what airport is closest to <LOCATION>?
+what was <PERSON>'s wife name?
+what team does <PERSON> play for?
+what form of government do we have in the <LOCATION>?
+who are famous people from <LOCATION>?
+when did shaq come to the nba?
+what empire did <PERSON> rule?
+where is <ORGANIZATION> home stadium?
+what movie is <MISC> jolie directing?
+what language do they speak <LOCATION>?
+who is <PERSON> married to?
+what country is <LOCATION> close to?
+who is the coach of <ORGANIZATION> <DATE>?
+where are <PERSON> snow blowers made?
+what is the money called in <LOCATION>?
+what movies did <PERSON> act in?
+what art movement does <PERSON> belong to?
+what county is <LOCATION> fl in?
+what music did <PERSON> do for <TIME>?
+what type of government is the <LOCATION>?
+what do you call <MISC> currency?
+where did sir <PERSON> live?
+what are the holydays of obligation in the <ORGANIZATION> church <DATE>?
+what is the name of the <ORGANIZATION> mascot?
+what caused the <MISC> financial crisis of <DATE>?
+what kind government does the <LOCATION> have?

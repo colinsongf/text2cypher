@@ -1,0 +1,5 @@
+numpy
+tensorflow
+tensorflow_hub
+pandas
+spacy

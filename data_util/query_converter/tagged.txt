@@ -1,0 +1,756 @@
+관련없는 내용
+match (m:Country)-[c:CURRENCY]-(n) where m.name=<LOCATION> return n.name
+nan
+관련없는 내용
+no data
+관련없는 내용
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+no use
+관련없는 내용
+match (m:Human)-[c:PLACE_OF_DEATH]-(n) where m.name=<PERSON>  return n.name
+nan
+관련없는 내용
+nan
+관련없는 내용
+nan
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+관련없는 내용
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+MATCH (p) WHERE p.name = <PERSON> RETURN p.name
+MATCH (c)-[r:CAPITAL]->(x) WHERE c.name=<LOCATION> RETURN x.name
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+nan
+match (p:Country)-[r:INCEPTION]-(u) where p.name=<LOCATION> return u
+match (o)-[:HEADQUARTERS_LOCATION]->(loc) where o.name=<ORGANIZATION> return loc.name
+관련없는 내용
+nan
+nan
+match (p)-[r:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(u) where p.name=<ORGANIZATION> return u.name
+관련없는 내용
+MATCH (p)-[r:INFLUENCED_BY]->(x) WHERE p.name = <PERSON> RETURN x.name
+관련없는 내용
+nan
+관련없는 내용
+관련없는 내용
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+관련 없는 내용
+nan
+nan
+match(p:Human)-[r:SPOUSE]-(u:Human) where p.name=<PERSON> return u
+관련없는 내용
+match (p)-[r:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(u) where p.name=<LOCATION> return u.name
+nan
+match(p:Human)-[r:RELIGION]-(u:ReligiousDenomination) where p.name=<PERSON> return u
+nan
+match (p:Human)-[r:MEMBER_OF_SPORTS_TEAM]-(u) where p.name=<PERSON> return u.name
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+nan
+nan
+match (m:Human)-[c:SPOUSE]-(n) where m.name=<PERSON>  return n.name
+match (m:Human)-[c:OCCUPATION]-(n) where m.name=<PERSON>  return n.name
+nan
+관련없는 내용
+관련없는 내용
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match (p:Battle)-[r:LOCATION]-(u) where p.name=<MISC> return u.name
+관련없는 내용
+관련없는 내용
+nan
+no use
+nan
+nan
+관련없는 내용
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+match (p)-[r:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(u) where p.name=<LOCATION> return u.name
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON> return n.name
+nan
+nan
+관련없는 내용
+match (m:Human)-[c:OCCUPATION]-(n) where m.name=<PERSON>  return n.name
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match (m)-[:LOCATED_IN_TIME_ZONE]->(n) where m.name = <LOCATION> return n.name
+match (m) where m.name=<LOCATION> return m.descEn
+nan
+관련없는 내용
+nan
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON> return n.name
+MATCH (p)-[r:NOTABLE_WORK]->(x) WHERE p.name = <PERSON> RETURN x.name
+match(p:FictionalHuman)-[r:PERFORMER]-(u) where p.name:<PERSON> return u
+match (m)-[:LOCATION_OF_FORMATION]->(n) where m.name=<ORGANIZATION> return n.name
+관련없는 내용
+관련없는 내용
+관련없는 내용
+nan
+nan
+match (m:Human)-[c:SPOUSE]-(n) where m.name=<PERSON>  return n.name
+match (m)-[:LOCATED_IN_TIME_ZONE]->(n) where m.name = <LOCATION> return n.name
+no use
+관련없는 내용
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+MATCH (p)-[r:OCCUPATION]->(x) WHERE p.name = <PERSON> RETURN x.name
+nan
+관련없는 내용
+관련없는 내용
+기타 종류 정보 없음
+관련없는 내용
+관련없는 내용
+nan
+nan
+관련없는 내용
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+관련없는 내용
+관련없는 내용
+match (m)-[:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(n) where m.name=<LOCATION>  return n.name
+관련없는 내용
+match (m)-[:CONTINENT]->(c) where m.name=<LOCATION> return c.name
+관련없는 내용
+match (c)-[:CONTAINS_ADMINISTRATIVE_TERRITORIAL_ENTITY]->(t) where c.name=<LOCATION> return t.name
+match (w)-[:PRODUCER]->(h) where h.name=<ORGANIZATION> return w.name
+nan
+관련없는 내용
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+관련 없는 내용
+match (o)-[:OWNED_BY]->(h) where o.name=<ORGANIZATION> return h.name
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON> return n.name
+match (m)-[:FOUNDED_BY]-(n) where m.name=<ORGANIZATION> return n.name
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+관련없는 내용
+관련없는 내용
+관련없는 내용
+관련없는 내용
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+nan
+nan
+관련없는 내용
+nan
+match (p:Human)-[r:GENRE]-(u) where p.name:<PERSON> return u
+no use
+match (p:Human) where p.name=<PERSON> return p.description
+관련없는 내용
+match (m)-[c:OFFICIAL_LANGUAGE]-(n) where m.name=<LOCATION> return n.name
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+관련없는 내용
+nan
+nan
+MATCH p=(x)-[r:CAPITAL_OF]->(l) WHERE l.name = <LOCATION> RETURN x.name
+nan
+관련없는 내용
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+match (m:Human)-[c:ACADEMIC_DEGREE]-(n) where m.name=<PERSON>  return n.name
+match (loc)-[:HEAD_OF_GOVERNMENT]->(h) where loc.name=<LOCATION> return h.name
+nan
+match (h:Human)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name 
+match (c)-[:SHARES_BORDER_WITH]->(n) where c.name=<LOCATION> return n.name
+nan
+nan
+match (m)-[:LOCATED_IN_TIME_ZONE]->(n) where m.name = <LOCATION> return n.name
+match (p:Service)-[:FOUNDED_BY]-(u:Human) where p.name=<ORGANIZATION> return u.name
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+nan
+MATCH (p)-[r:SIBLING]-(x) WHERE p.name = <PERSON> RETURN x.name
+MATCH (p)-[r:GENRE]->(x) WHERE p.name = <PERSON> RETURN x.name
+관련없는 내용
+match (m)-[:NOTABLE_WORK]->(w) where m.name=<PERSON> return w.name
+관련없는 내용
+관련없는 내용
+관련없는 내용
+관련없는 내용
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+nan
+nan
+관련없는 내용
+관련없는 내용
+nan
+nan
+nan
+관련없는 내용
+MATCH (p)-[r:EDUCATED_AT]->(x) WHERE p.name = <PERSON> RETURN x.name
+nan
+no data
+nan
+nan
+match (n)-[:CONTINENT]->(c) where n.name=<LOCATION> match (cap)-[:CAPITAL_OF]->(n) return c.name, cap.name
+nan
+관련없는 내용
+nan
+MATCH (o)-[:OWNED_BY]->(x) WHERE o.name = <ORGANIZATION> RETURN x.name
+match(p:Human)-[r:PLACE_OF_BIRTH]-(u) where p.name=<PERSON> return u
+관련없는 내용
+match (p:Human) where p.name=<PERSON> return p.description
+관련없는 내용
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+MATCH (p)-[r:CHILD]->(x) WHERE p.name = <PERSON> RETURN x.name
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+nan
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+관련없는 내용
+match (p:Human)-[r:GENRE]-(u) where p.name:<PERSON> return u
+nan
+match(p:Human)<-[r:CAST_MEMBER]-(u) where p.name=<PERSON> return u
+nan
+관련없는 내용
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+관련없는 내용
+관련없는 내용
+nan
+nan
+nan
+zip코드 없음
+nan
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON> return n.name
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION>, date=2012 return u
+relation 없음
+관련없는 내용
+match (m:Human)-[c:SPOUSE]-(n) where m.name=<PERSON>  return n.name
+nan
+no use
+MATCH (p)-[r:COUNTRY_OF_CITIZENSHIP]->(x) WHERE p.name = <PERSON> RETURN x.name
+관련없는 내용
+no data
+관련없는 내용
+not applicable
+관련없는 내용
+no use
+nan
+관련없는 내용
+MATCH (p)-[r:PARTICIPANT_OF]->(x) WHERE p.name = <PERSON> RETURN x.name
+MATCH (p)-[r:OFFICIAL_LANGUAGE]->(x) WHERE p.name = <LOCATION> RETURN x.name
+match(p:Human)-[r:EDUCATED_AT]-(u) where p.name=<PERSON> return u
+nan
+관련없는 내용
+match (loc)-[:OFFICIAL_RELIGION]->(r) where loc.name=<LOCATION> return r.name
+no use
+nan
+관련없는 내용
+match (n)-[:HEAD_OF_STATE]->(h) where h.name=<PERSON> return n.name
+nan
+nan
+match (h)-[:OFFICIAL_LANGUAGE]->(lang) where h.name=<LOCATION> return lang.name
+관련없는 내용
+MATCH (s:Song)-[:PERFORMER]->(p) WHERE p.name=<PERSON> RETURN s.name
+match (p:MartialArts) where p.name=<MISC> return p.description
+nan
+match(p:Human)<-[r:CAST_MEMBER]-(u) where p.name=<PERSON> return u
+match (o)-[r:LOCATED_IN_THE_ADMINISTRATIVE_ENTITY]->(location) where o.name=<LOCATION> return location.name
+no use
+nan
+nan
+no use
+nan
+nan
+nan
+nan
+match (o)-[r:LOCATED_IN_THE_ADMINISTRATIVE_ENTITY]->(location) where o.name=<LOCATION> return location.name
+nan
+match (p:Human)-[r:CHILD]->(u:Human) where u.name=<PERSON> return p.name
+MATCH (x)-[:HEAD_OF_STATE]->(p) WHERE p.name = <PERSON> RETURN x.name
+관련없는 내용
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+nan
+nan
+nan
+nan
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+match(h)-[:EDUCATED_AT]->(s) where h.name=<PERSON> return s.name
+nan
+관련없는 내용
+nan
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+관련없는 내용
+nan
+nan
+nan
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+nan
+match (o)-[r:LOCATED_IN_THE_ADMINISTRATIVE_ENTITY]->(location) where o.name=<LOCATION> return location.name
+관련없는 내용
+nan
+관련없는 내용
+nan
+관련없는 내용
+nan
+no use
+관련없는 내용
+관련없는 내용
+nan
+nan
+관련없는 내용
+관련없는 내용
+관련 없는 내용
+관련없는 내용
+match (c)-[:SHARES_BORDER_WITH]->(n) where c.name=<LOCATION> return n.name
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+nan
+관련없는 내용
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+match (m)-[c:OFFICIAL_LANGUAGE]-(n) where m.name=<LOCATION> return n.name
+관련없는 내용
+match (o) where o.name=<ORGANIZATION> return o.inception
+MATCH (x)-[r:CHILD]->(p) WHERE p.name = <PERSON> RETURN x.name
+관련없는 내용
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match (m)-[:NOTABLE_WORK]->(w) where m.name=<PERSON> return w.name
+zip코드 없음
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+match (m)-[:NAMED_AFTER]->(o) where m.name=<LOCATION> return o.name
+match(p:FictionalHuman)-[r:PERFORMER]-(u) where p.name=<PERSON> return u
+관련없는 내용
+관련없는 내용
+관련없는 내용
+nan
+nan
+nan
+관련없는 내용
+nan
+MATCH x=(:City)-[r]->(c) WHERE c.name = <LOCATION> RETURN x.name
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+nan
+nan
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+nan
+nan
+관련없는 내용
+no use
+nan
+nan
+관련없는 내용
+nan
+match (m)-[:LOCATED_IN_TIME_ZONE]->(n) where m.name = <LOCATION> return n.name
+match (p:Human)<-[:PERFORMER]-(u) where p.name=<PERSON> and u:Song return u
+match (h)-[:INFLUENCED_BY]->(w) where h.name=<PERSON> return w.name
+match (m:Human)-[c:OCCUPATION]-(n) where m.name=<PERSON>  return n.name
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+nan
+match (h)-[:LANGUAGE_USED]->(lang) where lang.name=<MISC> return h.name
+관련없는 내용
+nan
+zip코드 없음
+nan
+nan
+no use
+nan
+match (m:Human)-[c:PLACE_OF_DEATH]-(n) where m.name=<PERSON>  return n.name
+nan
+관련없는 내용
+nan
+관련없는 내용
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON> return n.name
+nan
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+nan
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+관련없는 내용
+match (m:Country)-[c:CURRENCY]-(n) where m.name=<LOCATION> return n.name
+nan
+관련 없는 내용
+nan
+관련없는 내용
+nan
+nan
+match(p:Human)-[r:PLACE_OF_BIRTH]-(u) where p.name=<PERSON> return u
+관련없는 내용
+nan
+관련 없는 내용
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+관련없는 내용
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+nan
+관련없는 내용
+match(p:Country)-[r:CONTINENT]-(u) where p.name=<LOCATION> return u.name
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+관련없는 내용
+match (c)-[:OFFICIAL_RELIGION]->(r) where c.name=<LOCATION> return r.name
+관련없는 내용
+관련없는 내용
+nan
+nan
+nan
+관련없는 내용
+nan
+nan
+nan
+match (c)-[:LANGUAGE_USED]->(lang) where lang.name=<MISC> return c.name
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+no use
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+MATCH (city)-[:COUNTRY]->(country) WHERE city.name = <LOCATION> RETURN country.name
+nan
+관련없는 내용
+관련 없는 내용
+nan
+nan
+MATCH (p)-[r:CHILD]->(x) WHERE p.name = <PERSON> RETURN x.name
+관련없는 내용
+nan
+nan
+MATCH (p)-[r:PLACE_OF_DEATH]->(x) WHERE p.name = <PERSON> RETURN x.name
+no data
+no data
+no data
+nan
+match(p:Human)<-[r:FOUNDED_BY]-(u) where u.name:<ORGANIZATION> return p.name
+match (m)-[:LOCATED_IN_TIME_ZONE]->(n) where m.name = <LOCATION> return n.name
+관련없는 내용
+관련없는 내용
+no use
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+match (o)-[r:LOCATED_IN_THE_ADMINISTRATIVE_ENTITY]->(location) where o.name=<ORGANIZATION> return location.name
+match (h)-[:LANGUAGE_USED]->(lang) where lang.name=<MISC> return h.name
+관련 없는 내용
+MATCH (p)-[r:OFFICIAL_LANGUAGE]->(x) WHERE p.name = <LOCATION> RETURN x.name
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+nan
+nan
+match(p:Human)-[r:SPOUSE]-(u:Human) where p.name=<PERSON> return u
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+not applicable
+match(p:Human)-[r:NOTABLE_WORK]-(u) where p.name=<PERSON> return u
+관련없는 내용
+관련없는 내용
+관련없는 내용
+관련없는 내용
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+nan
+nan
+관련없는 내용
+nan
+nan
+match(p:Human)<-[r:CAST_MEMBER]-(u) where p.name=<PERSON> return u
+관련없는 내용
+nan
+관련없는 내용
+nan
+nan
+match (h)-[:PRESENT_IN_WORK]->(b) where h.name=<PERSON> return b.name
+MATCH (p)-[r:PLACE_OF_DEATH]->(x) WHERE p.name = <PERSON> RETURN x.name
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+match (h)-[:FATHER]->(f) where h.name=<PERSON> return f.name
+nan
+no use
+관련없는 내용
+nan
+관련없는 내용
+match (m:Human)-[c:PLACE_OF_DEATH]-(n) where m.name=<PERSON>  return n.name
+match (p:HistorycalNationality)-[r:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(u) where p.name=<MISC> return u.name
+nan
+no use
+관련없는 내용
+관련없는 내용
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+관련없는 내용
+match (h:Human)-[:MEMBER_OF]->(b) where h.name=<PERSON> return b.name
+nan
+MATCH (c)-[r:CONTINENT]->(x) WHERE c.name=<LOCATION> RETURN x.name
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+MATCH (o)-[r:FOUNDED_BY]->(x) WHERE o.name = <ORGANIZATION> RETURN x.name
+match (h:Human) where h.name=<PERSON> return h.descEn
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+관련없는 내용
+nan
+nan
+nan
+nan
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+nan
+nan
+nan
+MATCH (c)-[r:CAPITAL]->(x) WHERE c.name=<LOCATION> RETURN x.name
+match (loc)-[:CURRENCY]->(currency) where loc.name=<LOCATION> return currency.name
+nan
+nan
+관련없는 내용
+nan
+nan
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+nan
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+nan
+match (m)-[:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(n) where m.name=<LOCATION>  return n.name
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON> return n.name
+관련없는 내용
+nan
+match (p:Human)-[r:POSITION_HELD]-(u) where p.name=<PERSON> return u.start_time
+match(p:Human)-[r:PLACE_OF_BIRTH]-(u:LOC) where p.name=<PERSON> return u
+nan
+match(p:Human)-[r:PLACE_OF_BIRTH]-(u:LOC) where p.name=<PERSON> return u
+match (c)-[:OFFICIAL_LANGUAGE]->(ol) where ol.name=<MISC> return c.name
+nan
+관련없는 내용
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+no relation
+nan
+match(p:Human)<-[r:CAST_MEMBER]-(u) where p.name=<PERSON> return u
+no data
+관련없는 내용
+match (h)-[:RELIGION]->(r) where h.name=<PERSON> return r.name
+관련없는 내용
+nan
+관련없는 내용
+관련없는 내용
+nan
+관련없는 내용
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+nan
+관련없는 내용
+match (cap)-[:CAPITAL_OF]->(n) where n.name=<LOCATION> return cap.name
+no use
+MATCH (x)-[r:OFFICIAL_LANGUAGE]->(p) WHERE p.name = <MISC> RETURN x.name
+match (m)-[:CONTINENT]->(c) where m.name=<LOCATION> return c.name
+관련 없는 내용
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+nan
+nan
+nan
+관련없는 내용
+nan
+관련없는 내용
+match (m)-[:PART_OF]->(n) where m.name = <PERSON> return n.name
+관련없는 내용
+nan
+nan
+nan
+two countries 는 모호한 entity
+관련없는 내용
+관련없는 내용
+nan
+match(p:Human)-[r:EDUCATED_AT]-(u) where p.name=<PERSON> return u.name
+관련없는 내용
+nan
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON> return n.name
+관련없는 내용
+관련없는 내용
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match (h:Human)-[:FILMOGRAPHY]->(f) where h.name=<PERSON> match (f)-[:HAS_PART]->(m) return m.name
+nan
+관련없는 내용
+nan
+nan
+관련없는 내용
+match (m)-[:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(n) where m.name=<LOCATION>  return n.name
+nan
+match (o)-[r:LOCATED_IN_THE_ADMINISTRATIVE_ENTITY]->(location) where o.name=<ORGANIZATION> return location.name
+nan
+nan
+nan
+nan
+match (o)-[:OWNED_BY]->(h) where o.name=<ORGANIZATION> return h.name
+관련없는 내용
+nan
+nan
+nan
+no use
+nan
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+match (p:MartialArts) where p.name=<MISC> return p.description
+match (h)-[:OFFICIAL_LANGUAGE]->(lang) return lang.name
+match (m)-[c:OFFICIAL_LANGUAGE]-(n) where m.name=<LOCATION> return n.name
+nan
+nan
+관련없는 내용
+nan
+관련없는 내용
+관련없는 내용
+POI 정보 없음
+관련없는 내용
+관련없는 내용
+관련없는 내용
+관련 없는 내용
+MATCH (x)-[:CHILD]->(p) WHERE p.name = <PERSON> RETURN x.name
+nan
+nan
+관련 없는 내용
+nan
+nan
+match(p:Human)<-[r:FOUNDED_BY]-(u) where u.name:<ORGANIZATION> return p.name
+관련없는 내용
+관련없는 내용
+match (h:Human)-[:MEMBER_OF]->(b) where h.name=<PERSON> return b.name
+관련없는 내용
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+관련없는 내용
+nan
+nan
+관련없는 내용
+관련없는 내용
+nan
+match (h)-[:PRESENT_IN_WORK]->(b) where h.name=<PERSON> return b.name
+관련 없는 내용
+관련없는 내용
+match (p:Human)-[r:DATE_OF_DEATH]-(u) where p.name=<PERSON> return u
+match (c)-[:SHARES_BORDER_WITH]->(n) where c.name=<LOCATION> return n.name
+관련없는 내용
+match (m:Human)-[c:SPOUSE]-(n) where m.name=<PERSON>  return n.name
+MATCH (o)-[r:FOUNDED_BY]->(x) WHERE o.name = <ORGANIZATION> RETURN x.name
+nan
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+관련없는 내용
+nan
+nan
+관련없는 내용
+nan
+관련 없는 내용
+match (o)-[r:LOCATED_IN_THE_ADMINISTRATIVE_ENTITY]->(location) where o.name=<LOCATION> return location.name
+nan
+MATCH (l)-[:CURRENCY]->(x) WHERE l.name = <LOCATION> RETURN x.name
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+nan
+nan
+nan
+관련없는 내용
+nan
+nan
+match (m)-[:LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY]-(n) where m.name=<LOCATION>  return n.name
+no use
+match (m)-[:NOTABLE_WORK]->(w) where m.name=<PERSON> return w.name
+nan
+관련없는 내용
+match (m)-[:FOUNDED_BY]-(n) where m.name=<ORGANIZATION> return n.name
+관련없는 내용
+match(p:Human)-[r:NOTABLE_WORK]-(u) where p.name=<PERSON> return u
+match (p:Human) where p.name=<PERSON> return p.description
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match (m:Human)-[c:OCCUPATION]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+match (m:Human)-[c:OCCUPATION]-(n) where m.name=<PERSON>  return n.name
+관련 없는 내용
+nan
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match(p:Human)-[r:FATHER]-(u:Human) where p.name=<PERSON> return u
+관련없는 내용
+match (m)-[:LOCATED_IN_TIME_ZONE]->(n) where m.name = <LOCATION> return n.name
+관련없는 내용
+nan
+nan
+nan
+MATCH p=(x)-[r:CAPITAL_OF]->(l) WHERE l.name = <LOCATION> RETURN x.name
+nan
+관련없는 내용
+nan
+match(p:Country)->[r:LANGUAGE_USED]-(u) where p.name=<LOCATION> return u
+MATCH (p)-[r:PLACE_OF_DEATH]->(x) WHERE p.name = <PERSON> RETURN x.name
+MATCH (o)-[:OWNED_BY]->(x) WHERE o.name = <ORGANIZATION> RETURN x.name
+관련없는 내용
+match (city)-[:COUNTRY]->(location) where city.name=<LOCATION> return location.name
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+match (m:Human)-[c:PLACE_OF_BIRTH]-(n) where m.name=<PERSON>  return n.name
+match (h)-[:RELIGION]->(r) where h.name=<PERSON> return r.name
+관련없는 내용
+nan
+nan
+관련없는 내용
+match(p:Country)->[r:CURRENCY]-(u) where p.name=<LOCATION> return u
+nan
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+관련 없는 내용
+match(p:Human)<-[r:CAST_MEMBER]-(u) where p.name=<PERSON> return u
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+match(p:Human)<-[r:CAST_MEMBER]-(u) where p.name=<PERSON> return u
+nan
+nan
+nan
+관련없는 내용
+nan
+nan
+관련없는 내용
+nan
+관련없는 내용
+match (m)-[:LOCATION]->(loc) where m.name=<MISC> return loc.name
+nan
+nan
+관련 없는 내용
+match (m:Human)-[c:PLACE_OF_DEATH]-(n) where m.name=<PERSON>  return n.name
+match (m:Human)-[c:OCCUPATION]-(n) where m.name=<PERSON>  return n.name
+nan
+match (location)-[:LOCATED_IN_TIME_ZONE]->(timezone) where location.name=<LOCATION> return timezone.name
+관련없는 내용
+match(p:Continent)-[r:HAS_PART]-(u) where p.name=<LOCATION> return u.name
+관련없는 내용
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+관련 없는 내용
+match (m:Human)-[c:SPOUSE]-(n) where m.name=<PERSON>  return n.name
+기타 종류 정보 없음
+match (s)-[:PERFORMER]->(h) where h.name=<PERSON> return s.name
+nan
+nan
+관련없는 내용
+nan
+nan
+관련없는 내용
+관련없는 내용
+관련없는 내용
+match(p:Human)-[r:NOTABLE_WORK]-(u) where p.name=<PERSON> return u
+관련없는 내용
+match (h)-[:PLACE_OF_BIRTH]->(p) where h.name=<PERSON> return p.name
+관련 없는 내용
+관련없는 내용
+nan
+nan
+nan
+nan
+match (m:Human)-[c:EDUCATED_AT]-(n) where m.name=<PERSON>  return n.name
+관련없는 내용
+관련없는 내용
+nan
+no data
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+match (m)-[:PART_OF]->(n) where m.name = <PERSON> return n.name
+MATCH (o)-[r:LOCATED_IN_TIME_ZONE]->(x) WHERE o.name = <LOCATION> RETURN x.name
+관련없는 내용
+MATCH p=(x)-[r:SPOUSE]-(p) WHERE p.name = <PERSON> RETURN x.name
+nan
+match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name
+nan
+nan
+nan
+관련없는 내용
+관련없는 내용
+match (m)-[c:OFFICIAL_LANGUAGE]-(n) where m.name=<LOCATION> return n.name
+match (m:Human)-[c:SPOUSE]-(n) where m.name=<PERSON>  return n.name
+nan
+관련없는 내용
+nan
+match (m:Country)-[c:CURRENCY]-(n) where m.name=<LOCATION> return n.name
+match (h:Human)-[:FILMOGRAPHY]->(f) where h.name=<PERSON> match (f)-[:HAS_PART]->(m) return m.name
+관련없는 내용
+nan
+match (p:Human)-[r:PRODUCE]-(u) where p.name=<PERSON> return u
+nan
+관련없는 내용
+match (p:Human)-[r:RESIDENCE]-(u) where p.name=<PERSON> return u.name
+nan
+관련없는 내용
+nan
+관련없는 내용
