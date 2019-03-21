@@ -10,6 +10,7 @@ data_util/query_converter/tagged_question.csv
 text2cypher/__init__.py
 text2cypher/tagged_question.csv
 text2cypher/test.py
+text2cypher/text2cypher.1.py
 text2cypher/text2cypher.py
 text2cypher.egg-info/PKG-INFO
 text2cypher.egg-info/SOURCES.txt

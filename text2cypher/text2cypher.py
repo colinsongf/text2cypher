@@ -13,6 +13,9 @@ class question_converter():
     """ Natural Language to Graph DB query(Cypher) Converter"""
 
     def __init__(self):
+        self.sess = tf.Session()
+        
+
         csv_filepath = os.path.dirname(os.path.realpath(__file__))+"/tagged_question.csv"
         #ner model
         self.ner_model = spacy.load('en_core_web_lg')
@@ -25,6 +28,9 @@ class question_converter():
         self.encoder = hub.Module(module_url)
         self.build_template_mat()
         self.tagconv ={"NORP":"ORGANIZATION","CARDINAL":"MISCELLANEOUS","ORDINAL":"MISCELLANEOUS","QUANTITY":"MISCELLANEOUS","MONEY":"MISCELLANEOUS","TIME":"MISCELLANEOUS","PERCENT":"MISCELLANEOUS","PRODUCT":"MISCELLANEOUS","LANGUAGE":"MISCELLANEOUS","LAW":"MISCELLANEOUS","WORK_OF_ART":"MISCELLANEOUS","EVENT":"MISCELLANEOUS","FAC":"MISCELLANEOUS","ORG":"ORGANIZATION","GPE":"LOCATION","LOC":"LOCATION"}
+
+        self._x = tf.placeholder(tf.string, shape=(None))
+        self._embed = self.encoder(self._x)
 
 
     def netagger(self, input_text):
@@ -72,10 +78,8 @@ class question_converter():
     def build_template_mat(self):
 
         embeddings = self.encoder(self.tmplt)
-        with tf.Session() as session:
-            session.run([tf.global_variables_initializer(), tf.tables_initializer()])
-            
-            self.tmplt_mat = session.run(embeddings) # already normalized
+        self.sess.run([tf.global_variables_initializer(), tf.tables_initializer()])
+        self.tmplt_mat = self.sess.run(embeddings) # already normalized
 
 
     def text2query(self, tagged_text):
@@ -86,12 +90,13 @@ class question_converter():
         query.append(tagged_text.replace('>','').replace('<',''))
 
         ### get query vectors    
-        embeddings = self.encoder(query)
+        # embeddings = self.encoder(query)
+        
+        query_mat = self.sess.run(self._embed, feed_dict={self._x: query})
 
-        with tf.Session() as session:
-            session.run([tf.global_variables_initializer(), tf.tables_initializer()])
-            
-            query_mat = session.run(embeddings) # already normalized
+        # embeddings = self.encoder(query)
+        
+        # query_mat = self.sess.run(embeddings) # already normalized
 
         ### get similarity 
         result= query_mat@self.tmplt_mat.T #query size by sent size matrix
@@ -154,4 +159,3 @@ if __name__ == "__main__" :
     cypher_query ,tag_dict = a.convert("who was Freddie Mercury's Father?")
     #cypher_query ,tag_dict = a.convert("Which member was lived in London ? ")
     print(cypher_query ,tag_dict)
-
