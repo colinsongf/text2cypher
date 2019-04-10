@@ -9,12 +9,30 @@ import numpy as np
 import pandas as pd 
 from collections import defaultdict
 
+def replaceTonametag(cypher,entities):
+    print(entities)
+    tag2ne = collections.defaultdict()
+    tag_list =["<LOCATION>","<ORGANIZATION>","<PERSON>","<MISCELLANEOUS>"]
+    count=0
+    for tag in tag_list:
+        for i in range(cypher.count(tag)):
+
+            if tag in cypher:
+                cypher = cypher.replace(tag,"<NAME"+str(count)+">",i+1)
+                count+=1
+
+    for i,name in enumerate(entities):
+        tag2ne["<NAME"+str(i)+">"] = name
+
+    return cypher,tag2ne
+
 class question_converter():
     """ Natural Language to Graph DB query(Cypher) Converter"""
-
+    
     def __init__(self):
         self.sess = tf.Session()
         
+        self.entities=[]
 
         csv_filepath = os.path.dirname(os.path.realpath(__file__))+"/tagged_question.csv"
         #ner model
@@ -47,12 +65,13 @@ class question_converter():
             candit.append(temp[i]+" "+temp[i+1])
         for i in range(len(temp)-2): #3 gram
             candit.append(temp[i]+" "+temp[i+1]+" "+temp[i+2])
-   
+
+        #candit is ngrams 
         for c in candit:
             if c in self.gaz_keys:
-                self.tag2ne[self.gazetter[c]] = c
+                self.entities.append(c)
                 input_text = input_text.replace(c,self.gazetter[c])
-        
+
         doc = self.ner_model(input_text)
 
         for ent in doc.ents:
@@ -60,7 +79,7 @@ class question_converter():
             label = ent.label_
             if label in self.tagconv:
                 label = self.tagconv[label]
-            self.tag2ne["<"+label +">"] = ent.text
+            self.entities.append(ent.text)
             input_text = input_text.replace(ent.text,"<"+label+">")
 
         print("the sentence is tagged : "+input_text)
@@ -71,7 +90,7 @@ class question_converter():
         self.tmplt2query = defaultdict(str)
         data = pd.read_csv(csv_filepath, sep=",") 
         for i in range(len(data)): #its my tagged part
-            self.tmplt2query[data[:]["tagging된 자연어 쿼리"][i].replace('>','').replace('<','')[:-1]+" ?".strip()] =  data[:]["DB Query"][i]
+            self.tmplt2query[data[:]["tagging된 자연어 쿼리"][i].replace('>','').replace('<','')[:-1].strip()+" ?"] =  data[:]["DB Query"][i]
 
         self.tmplt = list(self.tmplt2query.keys())
 
@@ -101,11 +120,12 @@ class question_converter():
         ### get similarity 
         result= query_mat@self.tmplt_mat.T #query size by sent size matrix
         #rank_idx=(result).argsort()[:,-1]
-        rank_idx = np.argmax(result,axis=1)
+        sim_scores = 1.0 - np.arccos(result)
+        rank_idx = np.argmax(sim_scores,axis=1)
 
         print("the most similar template is : "+self.tmplt[rank_idx[0]],)
         print("with the similiarity score : ",result[0][rank_idx[0]])
-        return self.tmplt2query[self.tmplt[rank_idx[0]]]
+        return self.tmplt2query[self.tmplt[rank_idx[0]]],result[0][rank_idx[0]]
     
 
     def build_entity_dic(self):
@@ -148,14 +168,16 @@ class question_converter():
         #print(self.gaz_keys)
     
     def convert(self, input_text):
-        self.tag2ne = defaultdict(str) #{tag_name : Named Entity}
+        
         tagged_text = self.netagger(input_text)
-        cypher_query = self.text2query(tagged_text)
+        cypher_query,score = self.text2query(tagged_text)
 
-        return cypher_query, self.tag2ne
+        cypher_query,tag2ne = replaceTonametag(cypher_query,self.entities)
+
+        return cypher_query, tag2ne,score
 
 if __name__ == "__main__" :
     a = question_converter()
-    cypher_query ,tag_dict = a.convert("who was Freddie Mercury's Father?")
+    cypher_query ,tag_dict,score = a.convert("Who is Brian May's wife?")
     #cypher_query ,tag_dict = a.convert("Which member was lived in London ? ")
-    print(cypher_query ,tag_dict)
+    print(cypher_query ,tag_dict,score)
