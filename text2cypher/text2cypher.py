@@ -32,7 +32,7 @@ class question_converter():
     def __init__(self):
         self.sess = tf.Session()
         
-        self.entities=[]
+        
 
         csv_filepath = os.path.dirname(os.path.realpath(__file__))+"/tagged_question.csv"
         #ner model
@@ -168,7 +168,7 @@ class question_converter():
         #print(self.gaz_keys)
     
     def convert(self, input_text):
-        
+        self.entities=[]
         tagged_text = self.netagger(input_text)
         cypher_query,score = self.text2query(tagged_text)
 
@@ -178,6 +178,6 @@ class question_converter():
 
 if __name__ == "__main__" :
     a = question_converter()
-    cypher_query ,tag_dict,score = a.convert("Who is Brian May's wife?")
+    cypher_query ,tag_dict,score = a.convert("what is the relationship between Freddie Mercury and Paul Mccartney?")
     #cypher_query ,tag_dict = a.convert("Which member was lived in London ? ")
     print(cypher_query ,tag_dict,score)
