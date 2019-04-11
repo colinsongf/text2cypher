@@ -67,7 +67,7 @@ class question_converter():
             candit.append(temp[i]+" "+temp[i+1]+" "+temp[i+2])
 
         #candit is ngrams 
-        for c in reversed(candit):
+        for c in candit:
             if c in self.gaz_keys:
                 self.entities.append(c)
                 input_text = input_text.replace(c,self.gazetter[c])
