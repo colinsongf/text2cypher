@@ -67,7 +67,7 @@ class question_converter():
             candit.append(temp[i]+" "+temp[i+1]+" "+temp[i+2])
 
         #candit is ngrams 
-        for c in candit:
+        for c in reversed(candit):
             if c in self.gaz_keys:
                 self.entities.append(c)
                 input_text = input_text.replace(c,self.gazetter[c])
@@ -178,6 +178,6 @@ class question_converter():
 
 if __name__ == "__main__" :
     a = question_converter()
-    cypher_query ,tag_dict,score = a.convert("what is the relationship between Freddie Mercury and Paul Mccartney?")
+    cypher_query ,tag_dict,score = a.convert("what is the relationship between Freddie Mercury and Ludwig van Beethoven?")
     #cypher_query ,tag_dict = a.convert("Which member was lived in London ? ")
     print(cypher_query ,tag_dict,score)
