@@ -3,7 +3,7 @@ import json
 import pickle 
 import os 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-f = open(dir_path+"/Country.csv","r")
+f = open(dir_path+"/Human.csv","r")
 
 rdr= csv.reader(f)
 ent_inst=[] #entity instance
@@ -22,6 +22,6 @@ for i,line in enumerate(rdr):
     #a['image']
 
 print(ent_inst)
-with open(dir_path+"/Country.pickle","wb") as fp:
+with open(dir_path+"/Human.pickle","wb") as fp:
     pickle.dump(ent_inst,fp)
 f.close()

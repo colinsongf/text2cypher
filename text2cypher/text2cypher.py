@@ -178,6 +178,6 @@ class question_converter():
 
 if __name__ == "__main__" :
     a = question_converter()
-    cypher_query ,tag_dict,score = a.convert("what is the relationship between Freddie Mercury and Ludwig van Beethoven?")
+    cypher_query ,tag_dict,score = a.convert("what is the relationship between freddie mercury and Ludwig van Beethoven?")
     #cypher_query ,tag_dict = a.convert("Which member was lived in London ? ")
     print(cypher_query ,tag_dict,score)
