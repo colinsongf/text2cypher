@@ -3778,7 +3778,7 @@ what music did robert pattinson do for twilight?,what music did <PERSON> do for 
 what type of government is the philippines?,what type of government is the <LOCATION>?,X,match(a)-[:BASIC_FORM_OF_GOVERNMENT]-(b) where a.name=<LOCATION> return b.name,what type of government is the LOCATION government?,98.24048877,,
 what do you call russian currency?,what do you call <MISC> currency?,X,관련없는 내용,what currency is used in LOCATION before MISC?,81.35502338,,
 where did sir donald bradman live?,where did sir <PERSON> live?,O,match (p:Human)-[r:RESIDENCE]-(u) where p.name=<PERSON> return u.name.name,where did sir PERSON live?,99.99998808,,
-what is the relationship between Freddie Mercury and Paul Mccartney?,what is the relationship between <PERSON> and <PERSON>?,O,match (f {name:<PERSON>}) match (p {name:<PERSON>}) match g=allShortestPaths((f)-[r*..4]->(p)) return g.name,,,,
+what is the relationship between Freddie Mercury and Paul Mccartney?,what is the relationship between <PERSON> and <PERSON>?,O,match (f {name:<PERSON>}) match (p {name:<PERSON>}) match g=allShortestPaths((f)-[r*..4]->(p)) return g,,,,
 what are the holydays of obligation in the catholic church 2013?,what are the holydays of obligation in the <ORGANIZATION> church <DATE>?,X,nan,what bible does the MISC church follow?,67.26883054,,
 what is the name of the broncos mascot?,what is the name of the <ORGANIZATION> mascot?,X,관련없는 내용,what is the ORGANIZATION mascot?,96.96165919,,
 what caused the russian financial crisis of 1998?,what caused the <MISC> financial crisis of <DATE>?,X,nan,what caused the MISC currency crisis?,84.65583324,,
